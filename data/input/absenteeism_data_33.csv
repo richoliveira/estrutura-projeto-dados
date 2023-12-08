@@ -1,0 +1,1001 @@
+id_colaborador;nome_colaborador;departamento;motivo_ausencia;horas_ausencia;data_ausencia;salario
+3595;Sarah Carvalho;TI;Doença;6;2023-06-18;14779.8
+9957;Pedro Miguel Araújo;TI;Férias;8;2022-09-10;16090.13
+9685;Isabelly Dias;Recursos Humanos;Férias;4;2022-07-15;15644.03
+5172;Larissa Peixoto;Recursos Humanos;Problemas Pessoais;8;2022-06-23;14345.08
+9989;Alícia da Cunha;Recursos Humanos;Problemas Pessoais;3;2023-10-09;9644.59
+7620;Sra. Clara Viana;Recursos Humanos;Doença;2;2020-07-20;16579.55
+4156;Luiz Felipe Barros;TI;Férias;4;2022-03-23;19457.48
+1918;Fernanda Aragão;Recursos Humanos;Doença;6;2023-08-02;11690.47
+7311;Isaac da Mata;Vendas;Viagem de Negocio;5;2023-10-17;9326.66
+9548;Pedro Santos;Recursos Humanos;Outros;3;2020-12-30;11343.49
+5673;Maria Fernanda Freitas;TI;Outros;8;2021-09-18;20068.69
+1391;Alícia Porto;Marketing;Doença;6;2020-05-12;12878.14
+4201;Evelyn Campos;TI;Problemas Pessoais;7;2023-09-28;8309.79
+7958;Rafael Cunha;Marketing;Licença Médica;3;2021-04-02;20281.28
+8776;Kamilly da Cruz;Vendas;Viagem de Negocio;5;2021-05-21;6171.25
+3530;Lívia da Cunha;TI;Doença;5;2020-03-10;10761.39
+2332;Joaquim Costela;Marketing;Outros;5;2022-03-18;9813.14
+6180;Lorena Araújo;Recursos Humanos;Licença Médica;2;2020-05-25;13618.45
+9152;Lucca Mendes;Vendas;Licença Médica;1;2022-01-18;7026.57
+8278;Igor Moraes;TI;Doença;8;2021-11-17;13180.94
+9560;Davi Luiz Martins;Recursos Humanos;Outros;4;2021-12-13;21539.0
+4029;Dr. Renan Moreira;TI;Outros;7;2021-05-03;20224.9
+4340;Isis Castro;Vendas;Outros;1;2023-08-20;12359.13
+8516;Fernanda Nunes;Vendas;Férias;8;2020-04-07;20012.97
+8734;Yago Cardoso;Recursos Humanos;Licença Médica;2;2021-06-19;3208.72
+8275;Dr. Enzo Oliveira;Vendas;Problemas Pessoais;2;2023-01-16;19000.64
+4995;Isadora Viana;Vendas;Doença;3;2021-04-12;3955.42
+6942;João Felipe Santos;Marketing;Férias;2;2023-07-08;18605.75
+8470;Lavínia Sales;Vendas;Outros;1;2023-03-31;21753.57
+4293;Caio Martins;Marketing;Doença;6;2021-10-25;14431.07
+4867;Sra. Nina da Conceição;Recursos Humanos;Férias;3;2023-11-26;13957.66
+6866;Benício Araújo;Vendas;Problemas Pessoais;3;2022-11-12;10491.0
+9326;Ian Caldeira;Vendas;Doença;5;2020-09-26;16005.66
+9519;João Lucas Peixoto;Recursos Humanos;Licença Médica;6;2021-12-07;7948.37
+1416;Benício da Rocha;Vendas;Problemas Pessoais;6;2022-02-04;7954.61
+3514;Dr. Miguel das Neves;TI;Licença Médica;4;2022-09-25;16310.86
+9865;Erick Novaes;Marketing;Férias;7;2020-03-28;20396.86
+3280;Sr. Cauã Moraes;Vendas;Doença;8;2021-11-29;11935.97
+5765;Marcos Vinicius Ramos;Vendas;Problemas Pessoais;5;2020-02-10;8127.57
+6354;Beatriz Alves;Marketing;Outros;6;2023-02-28;21699.67
+4046;Renan Nascimento;Vendas;Licença Médica;5;2021-04-23;9648.05
+1961;Davi Luiz Lopes;TI;Doença;4;2022-10-18;11540.19
+6672;Sr. Francisco da Rocha;Vendas;Férias;4;2021-06-28;18376.39
+1541;Lucca Cardoso;Marketing;Férias;8;2022-02-03;20939.42
+3693;Maria Clara Gomes;TI;Férias;4;2022-03-27;19834.07
+8730;Amanda Nogueira;Vendas;Viagem de Negocio;8;2020-01-30;21677.54
+5609;Yago das Neves;Recursos Humanos;Férias;3;2021-01-06;5713.61
+6172;Luiza das Neves;Recursos Humanos;Doença;7;2020-10-27;4398.23
+6710;Srta. Larissa Lima;Vendas;Outros;4;2021-12-11;20928.67
+4490;Lucas Cardoso;TI;Licença Médica;8;2023-03-25;11658.09
+7148;João Miguel Rocha;Vendas;Licença Médica;8;2020-07-29;6523.08
+7159;Sra. Ana Júlia Aragão;Recursos Humanos;Outros;6;2020-02-29;14069.14
+4719;João Vitor Moreira;Vendas;Outros;8;2021-03-27;12241.31
+2314;Sabrina da Paz;Recursos Humanos;Viagem de Negocio;8;2021-11-05;9194.63
+3643;Yuri das Neves;TI;Férias;8;2023-07-22;4456.76
+5370;Luna Cunha;Vendas;Doença;7;2021-05-14;3995.09
+8844;Cauê da Mata;Vendas;Doença;6;2021-09-22;9272.91
+3518;Ana Vitória da Rocha;Vendas;Férias;3;2023-05-01;21681.38
+2601;João da Mata;Marketing;Licença Médica;7;2023-06-25;15629.55
+4272;Theo Rocha;Marketing;Férias;6;2021-11-08;15561.31
+5185;Cauê Ferreira;Recursos Humanos;Outros;6;2020-04-28;5988.48
+3240;Luiz Miguel Nogueira;Vendas;Outros;4;2021-06-27;21275.91
+9352;Caio Rocha;Marketing;Licença Médica;8;2022-02-04;13494.17
+6933;Dra. Marcela Ferreira;Marketing;Licença Médica;5;2020-09-15;21998.82
+7052;Pedro Miguel Fogaça;TI;Problemas Pessoais;5;2023-06-21;6225.29
+8165;Luana Barros;Marketing;Problemas Pessoais;7;2023-06-03;13324.9
+7830;Bryan Porto;Marketing;Outros;4;2023-09-25;5614.92
+2804;Francisco Dias;Marketing;Licença Médica;8;2021-03-22;13244.1
+3316;Diego Monteiro;Recursos Humanos;Licença Médica;3;2021-08-30;8677.02
+5505;Caio Nogueira;TI;Outros;2;2022-09-07;5037.26
+6637;Sra. Esther Jesus;Recursos Humanos;Outros;4;2023-10-06;3053.93
+4306;Alana Viana;Recursos Humanos;Licença Médica;2;2021-05-26;6570.06
+7553;Dr. Nathan Lima;Recursos Humanos;Problemas Pessoais;6;2020-09-24;5671.69
+5381;Dra. Ana Carolina Porto;Marketing;Outros;8;2023-07-15;13076.53
+1204;Eloah das Neves;Vendas;Viagem de Negocio;1;2021-12-14;13705.68
+9998;Julia Gomes;Vendas;Doença;1;2021-01-17;16499.72
+9209;Otávio da Mata;Vendas;Problemas Pessoais;1;2023-09-08;17340.4
+1650;Letícia das Neves;TI;Doença;3;2020-10-19;19110.99
+7274;Davi Lucca Almeida;Vendas;Doença;8;2022-10-02;6537.11
+5827;Sr. João Miguel Melo;Recursos Humanos;Outros;5;2021-01-14;4565.35
+1261;Alana Fernandes;TI;Outros;4;2021-11-20;9243.22
+7555;Cauã Barros;TI;Problemas Pessoais;1;2021-10-05;16672.95
+5077;Isaac das Neves;Recursos Humanos;Doença;4;2022-03-16;11161.69
+4887;Diogo Pires;Vendas;Doença;6;2020-05-10;11892.94
+1292;Stephany Gomes;Recursos Humanos;Doença;6;2022-08-09;16360.76
+2196;Gabriel Pires;Recursos Humanos;Licença Médica;8;2020-08-23;3536.21
+1994;Yuri Silva;Vendas;Doença;1;2022-05-17;12315.06
+3573;Sabrina da Paz;Vendas;Viagem de Negocio;3;2023-04-19;15722.27
+1915;Laura Campos;Marketing;Férias;6;2021-04-18;14617.59
+8655;Bruno Ribeiro;Vendas;Outros;5;2023-11-02;21604.36
+1191;Nicolas Teixeira;Vendas;Licença Médica;5;2023-07-03;7043.78
+5509;Pietra Cunha;Marketing;Viagem de Negocio;6;2020-09-03;7718.38
+8820;Sofia Moreira;Marketing;Licença Médica;7;2022-12-10;17580.27
+6408;Gabrielly Cavalcanti;Marketing;Licença Médica;3;2021-03-15;3422.28
+2033;Juliana Pires;TI;Férias;5;2022-09-23;11324.28
+6635;Leonardo Fernandes;TI;Doença;5;2020-08-04;8358.09
+1989;Noah Cavalcanti;TI;Problemas Pessoais;2;2021-01-14;4747.21
+6622;Pedro Miguel Ribeiro;Vendas;Doença;5;2023-04-01;14633.53
+7768;Sr. Paulo Vieira;Marketing;Outros;6;2023-01-02;10981.83
+2500;Fernando Correia;Marketing;Licença Médica;2;2021-02-16;5046.96
+8051;Sra. Fernanda da Conceição;TI;Outros;8;2022-03-01;14757.81
+7132;Igor Monteiro;TI;Problemas Pessoais;8;2020-10-09;21238.13
+5987;Emilly Vieira;Vendas;Licença Médica;2;2023-05-18;6704.17
+6481;Mariana Nascimento;TI;Férias;6;2021-11-09;14050.28
+8946;Dra. Isadora Moraes;Vendas;Licença Médica;7;2022-10-17;9233.18
+1271;Ryan Rocha;TI;Licença Médica;7;2023-08-26;8621.21
+2865;Stephany Peixoto;TI;Férias;8;2023-06-13;6984.12
+1513;Dr. Pietro Cardoso;TI;Licença Médica;6;2023-07-06;14473.67
+2891;Danilo Campos;TI;Viagem de Negocio;7;2022-08-14;13060.3
+9820;Maria Luiza Martins;TI;Viagem de Negocio;3;2021-10-06;4309.24
+4006;João Miguel Ramos;TI;Férias;6;2020-06-06;15594.82
+2117;Yasmin Cunha;TI;Problemas Pessoais;1;2020-09-08;3102.73
+2729;Ryan Freitas;TI;Licença Médica;3;2023-12-01;15667.06
+9638;Ana Clara Martins;Recursos Humanos;Problemas Pessoais;6;2022-08-05;10450.22
+6081;Ana Júlia Carvalho;TI;Doença;7;2020-12-15;10548.67
+9466;Vitor da Costa;Recursos Humanos;Férias;7;2023-11-17;12138.44
+9830;Ana Sophia Freitas;Marketing;Férias;3;2023-11-16;19635.66
+9472;Dra. Nicole Caldeira;Marketing;Viagem de Negocio;3;2020-05-30;5961.89
+5673;Bárbara Campos;Marketing;Viagem de Negocio;3;2023-08-14;3243.04
+3944;Lara Viana;Marketing;Problemas Pessoais;7;2020-12-16;9814.31
+1841;Sra. Kamilly Lopes;Vendas;Viagem de Negocio;5;2022-07-31;4004.28
+9909;João Duarte;Vendas;Viagem de Negocio;3;2023-05-24;4574.75
+7369;Maria Eduarda Farias;Marketing;Licença Médica;4;2021-03-11;13007.86
+6899;Srta. Lavínia Mendes;Vendas;Férias;3;2022-09-27;8206.07
+1517;Emanuella Cunha;Marketing;Problemas Pessoais;1;2020-08-09;4701.51
+9756;Esther Nascimento;Marketing;Outros;1;2023-07-26;11829.02
+5796;Maria Julia da Luz;TI;Problemas Pessoais;4;2021-03-13;18194.72
+5769;Luiz Felipe Rocha;Marketing;Férias;6;2021-01-01;12490.09
+8333;Evelyn da Mota;Marketing;Viagem de Negocio;3;2020-12-03;16170.32
+3963;Maria Eduarda Cavalcanti;Vendas;Doença;1;2021-07-07;21156.82
+1445;Stephany Alves;Vendas;Doença;6;2022-03-09;14057.54
+8196;Otávio Nogueira;Vendas;Problemas Pessoais;2;2021-02-10;13718.98
+6414;Gustavo Costela;Recursos Humanos;Doença;5;2020-05-01;9462.29
+1595;Sr. Luiz Otávio Caldeira;TI;Outros;4;2021-06-09;20772.55
+8934;Thiago Novaes;Vendas;Outros;7;2023-05-12;17298.9
+5505;Heitor Campos;Vendas;Férias;1;2023-08-26;13358.72
+4036;Camila Rezende;Marketing;Férias;1;2022-09-30;3831.9
+4318;Esther da Paz;Marketing;Viagem de Negocio;5;2021-05-01;16927.67
+7635;Srta. Brenda Fernandes;Recursos Humanos;Férias;7;2022-06-09;4868.18
+9084;Lucas Mendes;Recursos Humanos;Doença;2;2021-07-31;14139.53
+4552;João Felipe Dias;Marketing;Problemas Pessoais;3;2023-07-08;17031.74
+3400;Maria Julia Alves;TI;Férias;5;2022-11-15;20707.48
+2635;Maria Fernanda Cardoso;Vendas;Doença;6;2020-06-06;20547.09
+9387;Gabriel Gonçalves;Marketing;Viagem de Negocio;6;2020-12-18;12112.46
+6957;Dr. Otávio Silva;Marketing;Licença Médica;1;2021-07-29;4575.4
+3051;Clara Martins;Vendas;Doença;8;2022-08-22;8291.79
+4988;Rodrigo Correia;TI;Doença;4;2022-08-19;17097.98
+6666;Theo Silveira;Recursos Humanos;Outros;3;2023-07-29;14860.04
+5166;Breno Pires;TI;Viagem de Negocio;8;2023-05-07;6361.07
+2383;Julia Barbosa;Recursos Humanos;Problemas Pessoais;2;2020-01-27;17001.96
+7035;João Lucas Fogaça;Recursos Humanos;Licença Médica;2;2023-11-26;15029.19
+9060;Gabrielly Nascimento;TI;Férias;2;2021-01-18;19898.16
+8244;Caroline Aragão;Vendas;Viagem de Negocio;8;2020-12-21;10686.12
+6976;Alana Teixeira;Vendas;Doença;3;2023-10-28;4344.85
+5575;Joaquim da Paz;TI;Doença;3;2020-04-24;13624.05
+9561;Yasmin Lima;TI;Doença;5;2020-08-24;16617.34
+7610;Calebe Vieira;Marketing;Viagem de Negocio;4;2021-03-19;21854.08
+9860;Marcela Azevedo;Marketing;Licença Médica;5;2022-05-20;7103.12
+3313;Dra. Raquel Almeida;Recursos Humanos;Férias;7;2023-02-05;19762.08
+6213;Yuri Ferreira;TI;Viagem de Negocio;3;2022-12-18;14336.54
+7457;João Gabriel da Rosa;Marketing;Outros;7;2020-04-25;13103.65
+2068;Dra. Alice Moraes;Vendas;Viagem de Negocio;6;2021-07-12;18178.97
+2193;Daniela Freitas;TI;Viagem de Negocio;6;2023-01-30;14605.42
+7263;Lucca Fogaça;TI;Outros;2;2021-10-03;15021.92
+1145;Vitor Gabriel Barbosa;Recursos Humanos;Férias;1;2020-12-11;6589.98
+4418;Vitor Gabriel Rocha;TI;Licença Médica;7;2020-02-22;4509.98
+7738;Miguel da Rocha;Recursos Humanos;Licença Médica;7;2022-03-17;8490.42
+1327;Leandro Alves;Recursos Humanos;Problemas Pessoais;5;2023-05-24;17716.28
+2996;Natália Fernandes;Vendas;Licença Médica;4;2023-03-18;16660.4
+9941;Brenda Peixoto;Vendas;Doença;7;2021-03-03;14896.88
+3631;Ana Carolina Freitas;Recursos Humanos;Outros;5;2022-01-07;17151.03
+4634;Raquel Rocha;Marketing;Licença Médica;2;2022-08-14;6634.07
+7347;Thomas Novaes;Vendas;Viagem de Negocio;7;2022-02-05;7819.86
+9883;Thales da Mota;TI;Férias;8;2022-05-12;8948.66
+3852;Sra. Lorena Souza;TI;Doença;1;2020-10-03;10258.38
+2344;Dra. Ana Júlia Fogaça;Vendas;Problemas Pessoais;3;2021-08-04;9772.07
+4248;Sophie Cardoso;TI;Licença Médica;6;2023-10-03;19405.52
+6881;João Pedro Mendes;Vendas;Férias;2;2021-07-21;11104.57
+6569;Sophia Cardoso;Marketing;Outros;6;2021-12-22;7914.86
+9687;Ana Júlia da Rocha;TI;Licença Médica;8;2022-05-31;13639.16
+6199;Breno Souza;TI;Licença Médica;1;2020-07-17;18001.28
+9984;Dr. Luiz Fernando Monteiro;TI;Férias;3;2023-10-08;11248.43
+3197;Julia Jesus;Recursos Humanos;Doença;6;2021-11-03;17639.5
+5800;Luigi Monteiro;Marketing;Viagem de Negocio;7;2023-11-30;15412.0
+9538;Arthur Costa;Recursos Humanos;Doença;2;2020-11-10;14119.3
+2395;Joana Jesus;TI;Férias;2;2020-03-14;8575.07
+7614;Sr. Luiz Felipe Silva;Vendas;Doença;1;2023-02-01;8105.98
+5076;Bryan Gomes;Vendas;Férias;7;2020-12-15;7745.23
+8776;Dr. Pedro Lucas Sales;TI;Outros;2;2021-07-05;15226.97
+4307;Júlia da Cunha;Recursos Humanos;Outros;3;2021-07-12;12519.13
+8336;Juan Carvalho;Vendas;Doença;8;2021-11-20;17272.7
+6613;Brenda Viana;Recursos Humanos;Férias;1;2021-05-09;21756.97
+8310;Evelyn Mendes;TI;Problemas Pessoais;5;2022-09-17;17507.61
+6731;Srta. Sofia Peixoto;Recursos Humanos;Viagem de Negocio;8;2023-01-21;12396.31
+1751;Helena Sales;Recursos Humanos;Outros;1;2020-07-08;3489.79
+2257;Gabrielly da Costa;Marketing;Licença Médica;2;2020-03-18;13820.17
+4742;Isabelly Rodrigues;Vendas;Licença Médica;6;2020-12-17;15767.7
+5819;João Gabriel Gomes;Marketing;Doença;6;2020-04-02;8414.0
+2253;Leonardo Pinto;Vendas;Licença Médica;6;2020-05-07;12972.43
+9305;Ryan Castro;Vendas;Férias;7;2022-06-19;15058.79
+9706;Davi Luiz Nunes;TI;Problemas Pessoais;4;2021-12-12;17391.8
+4045;Maria Eduarda Nunes;Recursos Humanos;Licença Médica;6;2023-09-05;19239.71
+1294;Pietro das Neves;TI;Licença Médica;4;2020-09-28;8726.11
+6750;Dra. Ana Beatriz Caldeira;TI;Licença Médica;5;2023-10-27;7749.28
+4864;Valentina Caldeira;Marketing;Outros;5;2021-06-07;12056.72
+7545;Calebe Sales;TI;Licença Médica;6;2021-09-28;5789.28
+6960;Carlos Eduardo Souza;Vendas;Licença Médica;1;2022-07-07;7076.58
+7292;Ana Vitória Nunes;Marketing;Outros;1;2022-04-03;17392.03
+3560;Ana Carolina da Cruz;Vendas;Problemas Pessoais;3;2023-03-07;10820.38
+7001;Mariana Rodrigues;TI;Problemas Pessoais;4;2023-06-18;10294.73
+6839;Maitê Dias;Marketing;Outros;3;2023-10-24;21667.34
+7701;Dra. Sophia Cardoso;Recursos Humanos;Férias;3;2022-10-29;21002.15
+7633;Júlia Souza;Vendas;Viagem de Negocio;7;2022-07-02;7738.37
+6348;Sr. Caio Ramos;Marketing;Licença Médica;8;2020-09-22;20695.56
+4725;Renan Rodrigues;Vendas;Viagem de Negocio;1;2022-02-23;11038.09
+3603;Daniel Silveira;TI;Outros;7;2021-11-01;20182.73
+6181;Bernardo Martins;Vendas;Férias;7;2020-10-14;6282.9
+4581;Isabelly Jesus;TI;Licença Médica;1;2022-01-20;7598.34
+4155;Juliana da Rocha;Vendas;Outros;3;2020-10-24;14402.42
+9284;Nicolas Teixeira;TI;Doença;7;2020-06-04;19251.22
+9627;Thiago Moura;Marketing;Licença Médica;1;2023-04-05;21093.17
+9902;Mariana das Neves;Vendas;Viagem de Negocio;7;2022-09-12;14382.62
+1296;Francisco Fernandes;Marketing;Doença;5;2023-08-28;17876.49
+6348;Dr. Pedro Miguel Nogueira;Vendas;Férias;8;2023-03-10;11639.05
+6520;João Peixoto;Marketing;Férias;1;2021-07-20;20196.09
+9875;Ana Lívia Moura;Marketing;Outros;7;2023-07-01;19266.87
+7851;Gabriel Pires;TI;Outros;1;2022-09-02;18951.48
+3131;Agatha Freitas;Recursos Humanos;Licença Médica;4;2020-12-26;7384.58
+9169;Fernando Viana;TI;Licença Médica;3;2021-02-16;15309.94
+2742;Bianca Rezende;TI;Outros;3;2022-04-26;14276.42
+5374;Maria Eduarda da Mota;Recursos Humanos;Problemas Pessoais;2;2020-01-06;20825.51
+3771;Dr. Breno Ramos;Marketing;Outros;4;2021-06-09;5423.11
+3157;Davi Luiz Dias;Marketing;Doença;1;2023-04-04;12126.56
+7648;Ana Vitória da Mota;Marketing;Férias;7;2023-06-23;14233.24
+3746;Sra. Stephany da Paz;Vendas;Problemas Pessoais;5;2021-06-22;20495.16
+9711;Davi Lucca Rocha;Marketing;Problemas Pessoais;4;2021-07-12;16416.66
+4421;Isabella Lima;Vendas;Viagem de Negocio;1;2021-03-24;15354.89
+3258;Renan Campos;TI;Licença Médica;8;2020-12-30;18424.48
+8789;Camila Costela;Vendas;Viagem de Negocio;5;2022-01-26;20680.55
+7585;Beatriz Porto;Recursos Humanos;Problemas Pessoais;3;2021-01-09;20567.53
+4005;Sophie Souza;Recursos Humanos;Outros;7;2020-02-14;19102.4
+3152;Igor Pires;Marketing;Doença;5;2023-07-27;14037.23
+3079;Maria Cunha;Vendas;Viagem de Negocio;8;2021-02-09;9268.61
+3106;João Miguel Fogaça;Vendas;Licença Médica;8;2023-08-09;14885.52
+1992;Maitê Moreira;Vendas;Férias;7;2021-02-23;16597.73
+7874;Raquel Melo;Recursos Humanos;Licença Médica;2;2022-06-27;16797.89
+4465;Yuri da Cruz;Marketing;Viagem de Negocio;8;2020-05-26;19791.13
+3195;Dra. Laura Teixeira;Vendas;Outros;1;2020-06-13;4370.68
+4664;Vinicius Novaes;Recursos Humanos;Doença;3;2022-09-17;4942.87
+4928;Giovanna da Rosa;TI;Doença;7;2021-02-16;12430.58
+8886;Ian Gomes;Marketing;Licença Médica;1;2020-10-25;15681.13
+7059;Lara Araújo;Marketing;Problemas Pessoais;1;2020-08-26;19270.24
+3685;Kaique Silva;TI;Férias;8;2021-06-29;16981.54
+2366;Dr. João Gabriel Fogaça;Marketing;Doença;2;2020-08-01;3420.29
+3211;Dr. Enzo Gabriel Porto;TI;Doença;1;2023-04-11;13580.71
+4887;Gustavo Henrique Teixeira;Recursos Humanos;Viagem de Negocio;2;2022-03-20;9988.47
+7733;Vicente Castro;TI;Doença;7;2022-04-18;17558.41
+1249;Murilo Silva;Vendas;Doença;6;2023-07-05;3550.3
+1358;Sr. Pietro Jesus;Marketing;Férias;1;2021-04-07;4433.53
+3687;Theo Campos;Recursos Humanos;Férias;4;2020-11-07;20615.33
+9964;Ryan Correia;Recursos Humanos;Doença;4;2020-12-14;13070.36
+6973;Raul Barbosa;Marketing;Férias;1;2022-08-29;11235.5
+1314;Sr. Eduardo Ramos;Vendas;Outros;3;2020-11-03;19653.3
+7850;Thomas Alves;Vendas;Licença Médica;8;2021-06-04;12826.38
+3306;Ana Moraes;Marketing;Viagem de Negocio;5;2023-05-17;6938.39
+4193;Dr. Pedro Fernandes;TI;Outros;3;2023-05-27;17705.31
+6792;Maysa Lopes;Vendas;Problemas Pessoais;7;2021-10-23;9822.45
+7655;Carolina Rezende;Vendas;Férias;1;2023-05-28;9259.5
+1592;Emanuel Nascimento;Recursos Humanos;Licença Médica;1;2022-12-29;11259.97
+3751;Vicente Nascimento;Vendas;Férias;2;2020-07-13;20941.42
+1482;Rebeca Azevedo;Marketing;Férias;2;2023-08-23;12701.26
+6110;Pedro Lucas das Neves;Recursos Humanos;Viagem de Negocio;8;2020-09-12;21520.79
+8612;Murilo da Luz;TI;Problemas Pessoais;7;2022-01-19;10599.84
+6728;Helena Peixoto;Vendas;Licença Médica;2;2023-09-05;6075.12
+5534;Olivia Lopes;TI;Férias;1;2023-01-21;16980.51
+7456;Júlia Carvalho;Marketing;Viagem de Negocio;7;2021-12-29;3307.15
+3593;Nathan Silva;Recursos Humanos;Férias;5;2020-11-27;6998.46
+8858;Srta. Alícia Freitas;TI;Férias;2;2021-04-04;4822.4
+4324;Leandro Cardoso;Recursos Humanos;Viagem de Negocio;6;2022-06-30;9472.27
+6827;Dr. Eduardo Barbosa;Vendas;Outros;2;2022-12-04;14645.54
+7125;Lívia Gonçalves;Vendas;Viagem de Negocio;5;2021-10-18;9789.54
+1627;Matheus Aragão;Recursos Humanos;Licença Médica;3;2020-12-29;12476.57
+1503;Emanuel Souza;TI;Viagem de Negocio;7;2023-04-23;10125.57
+9393;Alexandre Lima;Recursos Humanos;Licença Médica;8;2021-10-30;5420.76
+2725;Dr. Luigi Mendes;Vendas;Férias;8;2021-07-11;10315.92
+4759;Sr. Vinicius da Conceição;TI;Licença Médica;4;2022-07-31;17625.32
+5595;Mariane Pereira;Recursos Humanos;Doença;8;2023-11-17;16961.55
+9863;Arthur Caldeira;TI;Licença Médica;1;2020-03-31;11085.77
+6411;Dr. Nathan Pinto;Recursos Humanos;Outros;1;2020-11-08;4330.45
+8575;Luiz Felipe Pinto;TI;Problemas Pessoais;4;2023-06-26;19429.42
+1397;Srta. Fernanda Moura;Vendas;Licença Médica;7;2023-06-18;17232.04
+3736;Maitê Araújo;Marketing;Viagem de Negocio;4;2021-11-17;16097.49
+3645;Rebeca Costela;Vendas;Viagem de Negocio;2;2022-02-10;10354.16
+4500;Emanuel das Neves;Marketing;Licença Médica;3;2020-12-14;3901.79
+8989;Alícia Cardoso;Vendas;Doença;3;2021-09-02;19753.2
+1808;Srta. Ana Julia Costa;Recursos Humanos;Viagem de Negocio;7;2022-10-28;19455.65
+8225;Giovanna Barros;Vendas;Viagem de Negocio;7;2022-02-17;8693.82
+3284;Maria Cecília Silveira;Marketing;Doença;3;2022-05-26;7485.76
+6390;Mariana Gomes;Recursos Humanos;Doença;8;2020-03-03;8413.89
+6854;Srta. Milena Vieira;Vendas;Licença Médica;5;2023-09-02;8914.18
+5595;Daniel Mendes;Recursos Humanos;Problemas Pessoais;7;2022-08-06;11195.07
+3141;Agatha Pinto;Vendas;Viagem de Negocio;7;2022-03-22;11297.79
+8434;Arthur Martins;TI;Outros;8;2022-07-20;10464.2
+5430;Gabrielly Castro;Vendas;Doença;1;2022-05-19;11606.39
+5340;Bernardo Pereira;Recursos Humanos;Férias;1;2022-07-17;3885.34
+6273;Juliana Vieira;Marketing;Doença;4;2021-08-22;10976.04
+5927;Enrico Costa;Marketing;Problemas Pessoais;5;2022-08-29;7317.98
+5677;Sarah Silva;Marketing;Viagem de Negocio;7;2023-04-27;21243.85
+2616;Leandro da Mota;Recursos Humanos;Licença Médica;7;2021-07-04;5567.92
+4058;Calebe Jesus;Vendas;Problemas Pessoais;1;2020-08-04;4458.31
+1044;Dr. Kevin Dias;Recursos Humanos;Viagem de Negocio;1;2022-02-26;13535.8
+2611;Ana Júlia Moreira;TI;Problemas Pessoais;6;2022-02-21;7378.0
+5398;Eloah Silveira;Vendas;Férias;1;2020-10-26;18600.95
+5534;Otávio Pereira;Marketing;Férias;6;2021-11-10;4402.73
+9860;Dr. Marcelo Pinto;Vendas;Doença;3;2021-03-31;17841.03
+3622;Otávio Vieira;Recursos Humanos;Licença Médica;7;2022-12-08;4672.68
+2451;Leandro Carvalho;Marketing;Férias;7;2023-04-01;17475.82
+2533;Sra. Emilly Jesus;TI;Outros;1;2021-02-17;21188.29
+6376;Eduardo Ramos;Marketing;Férias;4;2020-02-09;16357.6
+6683;Dr. Paulo das Neves;Recursos Humanos;Licença Médica;7;2023-04-20;7673.96
+6316;Milena Rezende;Vendas;Doença;8;2022-09-16;11792.79
+9688;Benjamin Cardoso;TI;Problemas Pessoais;2;2020-01-19;20319.1
+6662;Francisco Alves;Vendas;Licença Médica;3;2023-08-19;13771.51
+4822;Vitor da Mata;Marketing;Problemas Pessoais;2;2020-07-07;17211.39
+2140;Heloísa Dias;Vendas;Problemas Pessoais;7;2022-03-03;3354.59
+6602;Sofia Costa;TI;Férias;5;2023-09-14;16473.24
+4081;Breno Santos;TI;Viagem de Negocio;5;2022-02-28;7996.27
+1829;Alícia Barbosa;Recursos Humanos;Outros;5;2022-04-08;8388.32
+3582;Dra. Maria Freitas;Vendas;Outros;5;2023-05-05;18990.42
+4813;Alexandre Ferreira;Vendas;Licença Médica;2;2022-05-20;6738.03
+2691;Felipe Lima;TI;Doença;3;2021-04-02;6855.28
+5365;Thomas Pereira;Vendas;Licença Médica;1;2022-01-05;13534.15
+4595;Larissa Ferreira;Recursos Humanos;Férias;1;2023-06-01;8710.82
+7473;Dra. Eduarda da Rocha;Vendas;Problemas Pessoais;3;2020-11-03;4218.07
+8683;Valentina Rodrigues;Vendas;Viagem de Negocio;5;2021-07-28;9219.04
+8301;Srta. Maria Sophia Cardoso;Marketing;Problemas Pessoais;2;2021-01-25;13559.07
+6695;Joaquim Cardoso;Recursos Humanos;Outros;2;2022-03-13;6106.61
+7965;Isaac Dias;TI;Doença;4;2020-03-10;15094.85
+2529;Daniel Rodrigues;TI;Outros;8;2023-08-12;6940.01
+6165;João Pedro Farias;Marketing;Outros;4;2023-08-09;15592.1
+3073;Lívia Moreira;Recursos Humanos;Doença;7;2021-02-08;19774.83
+1070;João Pedro da Conceição;TI;Problemas Pessoais;7;2023-05-26;14068.3
+4267;Srta. Emilly das Neves;Marketing;Outros;4;2022-06-12;20832.1
+9645;Alana Oliveira;Vendas;Outros;3;2021-08-20;20212.47
+5397;Agatha Mendes;Recursos Humanos;Férias;4;2023-07-30;5970.46
+6216;Dra. Stephany Almeida;Vendas;Licença Médica;5;2021-03-08;20135.45
+3507;Alexia Teixeira;Recursos Humanos;Viagem de Negocio;2;2021-10-30;7244.75
+9358;João Felipe Araújo;Marketing;Viagem de Negocio;5;2023-09-17;14097.73
+1936;Ana Lívia Cavalcanti;Marketing;Licença Médica;3;2021-09-17;9697.28
+1735;Rafaela da Conceição;Marketing;Viagem de Negocio;4;2021-12-25;19226.3
+5738;Augusto Santos;Recursos Humanos;Outros;6;2022-07-01;9513.02
+6586;Davi Luiz Rezende;Vendas;Doença;7;2023-06-07;14557.08
+8966;Dr. Rafael da Rosa;Recursos Humanos;Viagem de Negocio;3;2021-10-04;7496.83
+4164;Rodrigo Teixeira;Recursos Humanos;Outros;8;2023-08-03;17445.16
+2739;Sr. Luiz Fernando Rocha;Marketing;Outros;8;2020-12-25;17927.07
+4997;Dra. Cecília Alves;Vendas;Licença Médica;8;2021-04-26;7376.86
+8609;Bernardo Nascimento;TI;Doença;5;2022-04-16;19838.85
+4318;João Miguel Monteiro;TI;Outros;6;2022-09-14;15743.46
+1145;Sarah Silveira;Recursos Humanos;Viagem de Negocio;6;2021-06-07;4504.63
+8853;Sarah Viana;TI;Férias;4;2020-09-10;11878.16
+2037;Sofia Cunha;TI;Férias;8;2021-02-26;12153.28
+7802;Davi Luiz Pinto;Recursos Humanos;Doença;4;2022-05-21;4895.96
+2284;Srta. Bruna Lima;Marketing;Licença Médica;1;2023-02-05;12985.7
+1402;Juliana Cardoso;Vendas;Problemas Pessoais;7;2020-01-06;18085.56
+2913;Camila Viana;TI;Problemas Pessoais;7;2021-03-04;4597.63
+2225;Sophia Barbosa;Vendas;Doença;7;2023-04-13;6191.68
+4006;João Gabriel Oliveira;Marketing;Outros;8;2022-01-07;12143.68
+3201;Júlia Campos;Marketing;Licença Médica;6;2023-01-17;13731.16
+8272;Bruna da Paz;Marketing;Doença;1;2021-09-27;11478.32
+5470;Nicolas Silveira;Marketing;Doença;5;2021-04-22;5719.59
+5946;Sophia da Paz;Vendas;Férias;4;2021-12-24;18746.56
+1783;Beatriz Cardoso;Recursos Humanos;Viagem de Negocio;2;2020-09-17;21474.17
+2752;Beatriz Ribeiro;Vendas;Férias;5;2023-02-16;11267.82
+6497;Sarah Barbosa;Vendas;Doença;3;2021-04-06;5652.56
+6325;Juliana Oliveira;Recursos Humanos;Licença Médica;2;2022-03-18;15159.66
+1593;Sr. Luiz Felipe da Mata;Marketing;Férias;7;2022-12-09;5878.86
+4117;Maria Alice da Rosa;TI;Viagem de Negocio;3;2021-04-29;12875.25
+3117;Sra. Bianca Cardoso;TI;Licença Médica;2;2020-05-27;14560.59
+1670;Helena Nogueira;TI;Licença Médica;8;2022-05-27;15949.1
+5860;Rodrigo Porto;Vendas;Férias;8;2020-08-14;18590.24
+4577;Kamilly da Rosa;Marketing;Viagem de Negocio;1;2021-01-06;3476.65
+3409;Sra. Rebeca Pereira;Vendas;Doença;5;2020-07-04;14033.0
+8760;Srta. Beatriz Dias;TI;Férias;7;2020-12-21;6896.8
+5350;Sr. Leandro Cardoso;Recursos Humanos;Viagem de Negocio;4;2021-09-30;15033.71
+1255;Ana Júlia da Rocha;Vendas;Doença;5;2023-09-28;14308.14
+5843;Dr. Yago Cardoso;Vendas;Férias;7;2021-04-26;19699.35
+1948;Benjamin Castro;Recursos Humanos;Doença;4;2021-09-27;8949.21
+9974;Letícia Fernandes;Recursos Humanos;Viagem de Negocio;6;2020-08-06;17023.99
+7591;Sr. Danilo da Rosa;Marketing;Férias;2;2023-05-06;12926.22
+7319;Brenda Lima;Vendas;Viagem de Negocio;8;2020-05-09;16789.74
+7766;Larissa Pinto;Marketing;Doença;7;2023-06-11;3447.18
+1845;Caio Cardoso;Vendas;Férias;6;2023-04-04;4716.77
+8529;Marcos Vinicius Viana;Recursos Humanos;Licença Médica;4;2020-07-22;20149.41
+6066;Luigi Cardoso;Vendas;Férias;6;2020-10-29;20272.05
+4173;Diogo Novaes;Vendas;Doença;5;2022-04-29;15148.1
+6130;Srta. Nina Cavalcanti;Vendas;Férias;3;2020-05-21;11575.83
+3433;Stella Barros;Recursos Humanos;Viagem de Negocio;3;2020-10-13;4888.36
+9785;Calebe Fernandes;Recursos Humanos;Viagem de Negocio;5;2020-08-19;4028.88
+3964;Luiza Jesus;Marketing;Férias;7;2023-11-15;13030.31
+3832;Bruno Caldeira;Recursos Humanos;Licença Médica;6;2020-05-11;16983.19
+5875;Dra. Stephany Barbosa;TI;Problemas Pessoais;7;2022-02-05;14751.8
+8392;Srta. Daniela Mendes;TI;Doença;7;2023-06-18;5142.45
+1009;Srta. Alana Moreira;Marketing;Outros;1;2020-09-07;5744.27
+8342;Nina Pereira;Marketing;Férias;7;2023-05-11;15606.72
+9045;Natália Rocha;TI;Doença;4;2021-01-27;18255.84
+1976;Pedro Melo;Marketing;Licença Médica;3;2020-11-20;8839.22
+7969;Murilo Farias;TI;Problemas Pessoais;8;2021-04-26;18077.86
+4872;Srta. Maysa da Conceição;TI;Licença Médica;6;2023-01-21;14765.16
+6204;Sra. Maria Cecília Silva;Vendas;Férias;8;2021-01-30;3655.78
+3632;Calebe Barbosa;Recursos Humanos;Doença;4;2023-10-02;9715.17
+2328;Alexia Cavalcanti;Vendas;Licença Médica;3;2023-01-04;21594.31
+8409;Raul Campos;TI;Viagem de Negocio;7;2022-04-04;9980.8
+9635;Giovanna Moraes;Recursos Humanos;Férias;6;2022-06-01;20861.65
+2531;Davi Luiz Ribeiro;Marketing;Licença Médica;3;2021-08-16;7427.92
+7119;Danilo da Rocha;TI;Viagem de Negocio;4;2021-08-29;7127.2
+5078;André Monteiro;Marketing;Viagem de Negocio;8;2020-03-31;11105.23
+7005;Brenda da Luz;Recursos Humanos;Viagem de Negocio;1;2021-01-27;7037.7
+9317;Maysa Pereira;TI;Doença;7;2020-02-22;17434.24
+1090;Felipe da Cruz;Marketing;Licença Médica;6;2021-06-03;7202.6
+2887;Sra. Bianca da Rosa;Marketing;Outros;3;2020-06-29;12623.47
+7388;João Lucas Nascimento;Recursos Humanos;Doença;8;2022-01-06;14854.23
+3270;Sophie da Mota;Recursos Humanos;Licença Médica;5;2023-10-25;20894.16
+8287;Yasmin da Mota;Marketing;Problemas Pessoais;5;2023-08-11;21683.15
+9019;João Castro;Marketing;Outros;4;2021-09-28;14580.09
+7676;Juliana Dias;Vendas;Férias;2;2020-06-25;14526.19
+3239;Bárbara Pires;TI;Férias;1;2021-10-09;7147.89
+1781;Beatriz Moraes;Vendas;Problemas Pessoais;1;2021-03-22;20418.17
+3300;Alana Cavalcanti;TI;Férias;6;2022-02-04;11150.68
+2592;Luiza Pinto;Marketing;Férias;1;2023-08-18;17036.18
+2782;Sr. Pedro Ramos;Marketing;Outros;1;2023-04-02;8848.0
+8385;Srta. Catarina Melo;Recursos Humanos;Licença Médica;7;2021-10-26;5127.57
+9054;Mariane Martins;Recursos Humanos;Viagem de Negocio;3;2022-10-09;20022.16
+9759;Melissa Sales;TI;Problemas Pessoais;4;2020-09-17;16050.03
+7708;Lucas Barros;Vendas;Licença Médica;7;2021-09-04;21449.42
+7337;Isabelly da Paz;Recursos Humanos;Viagem de Negocio;3;2020-09-17;18046.75
+1901;Letícia Correia;TI;Viagem de Negocio;3;2020-06-15;8861.07
+1463;Sophie Lopes;Vendas;Licença Médica;7;2021-12-02;13576.4
+6866;Otávio Farias;TI;Viagem de Negocio;2;2020-11-26;7657.41
+4757;Cecília Farias;Recursos Humanos;Viagem de Negocio;6;2021-11-03;18423.59
+2827;Sr. Pedro Mendes;TI;Férias;1;2023-04-25;21157.74
+5100;Luiz Miguel Barros;Marketing;Licença Médica;2;2023-12-05;14434.02
+4738;Mirella Alves;Marketing;Doença;3;2023-06-24;11355.68
+5031;Pedro Henrique Silva;Recursos Humanos;Doença;2;2021-03-12;20949.59
+6094;Juan Pires;TI;Doença;1;2022-09-19;18348.82
+2335;Lucas Nunes;Recursos Humanos;Doença;1;2021-08-07;13022.29
+9968;Ana Carolina Duarte;Marketing;Problemas Pessoais;4;2021-08-09;13160.47
+9546;Cauã Barbosa;Vendas;Problemas Pessoais;7;2021-12-26;5687.89
+6178;Amanda Pires;Recursos Humanos;Licença Médica;7;2022-01-28;5808.29
+1064;Luiz Otávio Moura;Vendas;Problemas Pessoais;3;2022-04-07;5070.65
+3253;Ana Luiza Rodrigues;TI;Problemas Pessoais;8;2020-08-24;6697.19
+7520;Otávio das Neves;TI;Viagem de Negocio;1;2023-01-22;6683.66
+2984;Calebe Costa;TI;Problemas Pessoais;5;2022-05-21;7370.29
+7285;Dra. Gabrielly Alves;TI;Licença Médica;5;2022-07-21;15595.44
+3698;Maria Luiza Monteiro;Vendas;Problemas Pessoais;2;2020-04-03;16915.1
+3933;Davi Luiz Lima;Recursos Humanos;Outros;1;2022-06-10;9170.4
+3512;Rebeca Mendes;TI;Licença Médica;3;2021-01-04;21501.05
+8237;Heitor Melo;Marketing;Problemas Pessoais;1;2023-11-30;11981.65
+9000;Vitória Alves;Vendas;Outros;5;2021-06-18;19937.83
+6783;João Vitor Farias;Recursos Humanos;Licença Médica;4;2021-07-08;7437.11
+9270;Antônio da Conceição;Recursos Humanos;Viagem de Negocio;3;2023-09-06;3755.93
+1939;Dr. Lucca Farias;Recursos Humanos;Férias;8;2021-12-03;3983.09
+1006;Giovanna da Mota;Marketing;Férias;4;2023-10-26;21386.89
+7627;Alice Gonçalves;Vendas;Doença;7;2023-02-21;7472.28
+3130;Dr. Luiz Miguel Castro;Marketing;Outros;7;2021-03-01;7509.21
+5333;Lavínia Rocha;Vendas;Outros;8;2021-03-11;19876.25
+2355;Diego Castro;TI;Férias;1;2023-01-20;5763.05
+6552;Maria Eduarda Alves;Marketing;Problemas Pessoais;5;2021-08-13;8769.51
+5385;Caroline Ferreira;Recursos Humanos;Doença;4;2023-10-05;9303.48
+4627;Francisco Dias;Vendas;Outros;5;2023-02-07;18580.2
+7258;Caio Carvalho;TI;Doença;4;2022-01-24;5772.63
+4316;Sr. Heitor Viana;Vendas;Férias;6;2022-08-17;19477.18
+5042;Thomas Rocha;Vendas;Viagem de Negocio;7;2022-09-08;3001.02
+8464;Calebe da Costa;Recursos Humanos;Licença Médica;8;2023-03-23;14664.86
+4106;Yuri Moreira;Marketing;Licença Médica;8;2021-08-19;8371.97
+3919;Sr. Thales Ribeiro;Marketing;Licença Médica;1;2023-09-06;4571.62
+9998;Manuela Nogueira;Vendas;Férias;6;2023-05-09;17212.45
+1152;Letícia Barros;TI;Viagem de Negocio;5;2021-07-03;13086.87
+6460;Gabriela Barbosa;TI;Problemas Pessoais;4;2022-10-09;21206.89
+4022;Natália da Luz;Marketing;Licença Médica;8;2022-12-12;12116.35
+9699;Ana Clara Fogaça;Marketing;Viagem de Negocio;1;2022-04-27;20834.95
+9748;Maria Clara da Luz;TI;Férias;5;2022-05-20;9441.79
+8021;Luiz Henrique da Paz;Recursos Humanos;Licença Médica;3;2023-05-12;16541.39
+2789;Fernando da Rosa;Recursos Humanos;Licença Médica;1;2022-04-16;15583.08
+5280;Yago Martins;TI;Viagem de Negocio;2;2023-04-10;13008.72
+1981;Srta. Ana Laura da Rocha;Vendas;Outros;8;2021-10-02;13587.56
+5928;Eduardo Martins;Marketing;Problemas Pessoais;6;2023-02-17;18741.51
+9306;Rafael Oliveira;TI;Licença Médica;7;2022-10-11;6729.41
+7386;Levi Silva;Vendas;Licença Médica;3;2020-08-16;4749.52
+3196;Lucas Gabriel da Rosa;TI;Licença Médica;2;2021-11-30;8908.51
+1033;Emanuel Cavalcanti;Vendas;Licença Médica;2;2020-04-13;11162.36
+1175;Helena Ramos;Recursos Humanos;Outros;3;2021-10-10;3409.27
+3102;Laura Pinto;Vendas;Outros;6;2020-05-01;8500.31
+2538;Maria Eduarda da Conceição;Recursos Humanos;Problemas Pessoais;3;2020-12-02;7843.98
+4010;Luigi Caldeira;TI;Viagem de Negocio;7;2021-05-15;6344.93
+1444;Letícia Cardoso;Recursos Humanos;Outros;3;2022-03-17;20183.2
+5930;Dr. Luiz Gustavo Vieira;Recursos Humanos;Outros;8;2020-07-24;20846.29
+3128;Maitê das Neves;Vendas;Licença Médica;3;2020-11-21;20029.21
+3405;Dr. Isaac Peixoto;Vendas;Licença Médica;4;2020-01-25;21020.24
+6967;Vicente Barros;Marketing;Férias;6;2022-10-16;11443.78
+2680;Pedro Lucas Costa;Vendas;Licença Médica;3;2022-12-17;20003.64
+6736;Cecília Carvalho;Recursos Humanos;Licença Médica;2;2020-08-18;4361.63
+8964;Catarina Duarte;Vendas;Viagem de Negocio;7;2023-03-08;15556.99
+4828;Sophie Moraes;Recursos Humanos;Férias;2;2020-06-12;11076.71
+6668;Juan Santos;TI;Licença Médica;6;2022-11-26;15031.16
+8279;Esther Castro;TI;Viagem de Negocio;4;2020-04-19;4079.57
+7239;Nina Aragão;Recursos Humanos;Outros;1;2021-07-07;5533.28
+3907;Kamilly Alves;TI;Outros;4;2023-02-19;15112.18
+1328;Vicente Viana;Recursos Humanos;Problemas Pessoais;5;2022-10-29;6384.18
+5144;Maria Cecília Gomes;Vendas;Licença Médica;6;2021-06-21;6204.24
+4567;Mirella Moraes;Vendas;Licença Médica;7;2023-07-03;5787.9
+2789;Paulo da Cunha;Marketing;Outros;6;2021-03-01;20096.79
+2538;João Felipe Monteiro;Recursos Humanos;Licença Médica;6;2021-08-04;19001.5
+8985;Vitor Ribeiro;Vendas;Problemas Pessoais;6;2020-10-25;20050.76
+5018;Dr. Pedro Henrique Costela;Vendas;Outros;6;2021-10-27;12187.92
+7394;Anthony Teixeira;Recursos Humanos;Doença;2;2021-01-21;19743.41
+7951;Maria Cecília Sales;TI;Problemas Pessoais;7;2022-07-29;14199.11
+5431;Gabriela Viana;Vendas;Viagem de Negocio;8;2020-11-17;18266.61
+4509;Dra. Letícia da Cunha;Recursos Humanos;Outros;1;2023-03-15;9814.82
+6453;Emanuelly Moreira;TI;Viagem de Negocio;4;2020-05-24;18868.17
+7016;Sra. Marina da Costa;TI;Outros;6;2021-11-13;6060.75
+1804;Igor Fernandes;TI;Problemas Pessoais;4;2021-03-13;8017.37
+4968;Vicente Monteiro;TI;Outros;4;2022-01-22;16946.15
+6771;Dra. Esther Moura;Recursos Humanos;Outros;7;2022-02-03;17771.96
+5637;Srta. Valentina Novaes;Marketing;Doença;4;2022-04-20;19135.3
+3155;Marina Rezende;Vendas;Licença Médica;2;2022-04-29;4353.88
+2304;Stella Monteiro;Vendas;Problemas Pessoais;3;2020-11-06;10086.93
+1228;Maria Clara Alves;Recursos Humanos;Problemas Pessoais;1;2021-12-12;21569.95
+3035;Maria Cecília Lima;Vendas;Problemas Pessoais;1;2023-02-10;12445.34
+7789;Ana Júlia da Rocha;Recursos Humanos;Doença;8;2022-04-04;14088.57
+8436;Catarina Freitas;Marketing;Férias;3;2022-11-20;13592.05
+1534;Rafaela Monteiro;Marketing;Viagem de Negocio;8;2020-11-05;5148.66
+9179;Vitor Hugo Nascimento;Marketing;Doença;3;2021-04-14;5628.65
+1354;André Monteiro;TI;Problemas Pessoais;2;2023-12-01;9290.0
+3194;Maria Julia Cavalcanti;Marketing;Problemas Pessoais;6;2020-04-23;4528.36
+9591;Ana Lívia Monteiro;Vendas;Outros;3;2020-03-24;19271.5
+4555;Caroline Cunha;Marketing;Problemas Pessoais;6;2021-03-25;15193.27
+7110;Gustavo Henrique Mendes;Marketing;Viagem de Negocio;7;2023-10-19;9251.46
+8232;Sra. Gabrielly das Neves;TI;Férias;2;2023-11-22;15553.54
+7919;Srta. Gabriela Correia;Recursos Humanos;Problemas Pessoais;5;2022-05-18;4742.44
+3840;Luigi Jesus;Marketing;Problemas Pessoais;7;2021-04-18;20777.34
+6802;Sra. Rafaela Sales;Recursos Humanos;Problemas Pessoais;2;2021-08-09;16554.13
+1883;Dra. Joana Castro;Vendas;Licença Médica;2;2021-11-24;9074.5
+4426;Sr. João Felipe da Rocha;Marketing;Licença Médica;1;2022-08-10;10081.7
+8517;Sarah Rezende;Recursos Humanos;Problemas Pessoais;8;2021-07-05;15271.62
+5122;Dr. Enrico Nascimento;Marketing;Outros;6;2022-04-06;18983.93
+4523;Carolina Azevedo;Vendas;Viagem de Negocio;7;2020-03-07;5817.98
+1763;Mirella da Mata;Vendas;Problemas Pessoais;2;2023-08-04;14160.37
+2653;Maria Fernanda Jesus;Vendas;Viagem de Negocio;3;2020-07-02;4665.33
+3986;Gabriela Moura;Marketing;Férias;7;2021-04-05;18534.64
+4385;João Gabriel Silveira;Marketing;Licença Médica;2;2023-04-09;8803.37
+9655;João Guilherme Barbosa;TI;Outros;1;2020-07-28;3503.15
+3078;Matheus Teixeira;TI;Viagem de Negocio;2;2021-05-15;16011.54
+1167;Laura Alves;Marketing;Férias;5;2023-01-29;20966.25
+2482;Ana Barbosa;Marketing;Outros;8;2021-04-20;20763.72
+9366;Sra. Bianca da Luz;Recursos Humanos;Doença;7;2021-12-10;18427.02
+8053;João Miguel Araújo;Marketing;Licença Médica;5;2020-04-14;4663.23
+3452;Laís Moreira;TI;Licença Médica;6;2023-05-11;13179.78
+8540;Catarina da Mota;Marketing;Viagem de Negocio;4;2021-05-11;7360.07
+1493;Noah das Neves;Marketing;Doença;7;2020-10-01;10892.11
+9900;Isaac Lopes;Recursos Humanos;Licença Médica;2;2023-07-21;13350.51
+3024;Isis da Conceição;TI;Férias;3;2023-07-17;17362.7
+2340;Sr. Davi Luiz Vieira;Vendas;Outros;7;2021-12-23;15297.58
+7739;João Felipe Novaes;TI;Viagem de Negocio;7;2021-03-26;12603.72
+1200;Isadora Campos;Recursos Humanos;Viagem de Negocio;8;2020-08-17;8549.33
+4863;Yago Porto;TI;Viagem de Negocio;4;2020-06-02;20803.43
+3119;Sr. Diogo Gomes;Marketing;Problemas Pessoais;1;2021-02-25;13023.74
+5386;Marcela Fogaça;TI;Doença;3;2020-06-07;21648.05
+1947;Dra. Ana Barros;Marketing;Licença Médica;2;2020-08-24;3864.98
+3848;Yasmin Nogueira;Recursos Humanos;Doença;4;2020-04-17;12266.62
+1430;Marina Santos;Marketing;Outros;8;2020-09-22;13960.78
+2290;Anthony da Cunha;Marketing;Viagem de Negocio;8;2023-07-17;3380.39
+4982;Srta. Maria Alice Dias;Recursos Humanos;Viagem de Negocio;3;2023-02-02;5824.03
+2188;Matheus Pinto;Recursos Humanos;Viagem de Negocio;8;2020-01-03;13786.18
+4157;Pedro Lucas Nascimento;Vendas;Viagem de Negocio;6;2022-08-05;5689.08
+9884;Letícia Ramos;TI;Doença;6;2021-05-14;4155.48
+2978;João Lucas Porto;Vendas;Problemas Pessoais;6;2020-04-18;6799.88
+6939;Dr. Caio Ramos;Recursos Humanos;Férias;2;2021-01-29;21469.54
+9168;Ryan Cunha;Recursos Humanos;Licença Médica;7;2021-08-18;11634.29
+5293;Alexandre Moraes;Recursos Humanos;Licença Médica;3;2022-01-31;3721.14
+9940;Helena Correia;Vendas;Problemas Pessoais;4;2023-06-29;7141.0
+4777;Lívia Rocha;Recursos Humanos;Doença;6;2020-04-27;14610.78
+8406;Emilly Jesus;Marketing;Problemas Pessoais;5;2021-01-23;18846.29
+6573;Dra. Alexia das Neves;Vendas;Férias;6;2022-05-14;4271.62
+8710;Murilo Cunha;Vendas;Licença Médica;6;2021-11-28;7216.16
+3919;João Lucas Almeida;TI;Outros;2;2021-01-28;20307.57
+7000;Dr. Pedro Miguel Azevedo;TI;Licença Médica;6;2021-01-02;17216.01
+8323;Brenda Pinto;Recursos Humanos;Licença Médica;5;2023-10-27;13064.11
+8901;Dra. Laís Araújo;Marketing;Doença;8;2021-10-28;3594.13
+3564;Pedro Henrique Ribeiro;Vendas;Viagem de Negocio;5;2023-11-14;15039.98
+5798;Dr. André Almeida;Vendas;Outros;8;2021-01-27;15608.63
+3788;Benjamin Gonçalves;Recursos Humanos;Problemas Pessoais;6;2023-02-27;4857.09
+4783;Lívia Barros;Marketing;Doença;1;2021-02-12;20533.44
+5474;Yuri Ramos;Marketing;Licença Médica;1;2020-11-28;20141.08
+4695;Ana Julia Santos;Recursos Humanos;Viagem de Negocio;6;2020-02-03;13733.64
+7923;Emilly Rodrigues;TI;Férias;8;2021-10-02;14799.0
+8231;Theo Freitas;Vendas;Viagem de Negocio;3;2021-11-17;13861.52
+6738;João Felipe Nunes;Recursos Humanos;Doença;2;2023-03-28;13672.08
+7017;Caroline Santos;Marketing;Férias;3;2022-07-25;16194.52
+5546;Daniela Fogaça;Vendas;Outros;1;2023-03-29;4149.64
+2050;Guilherme Lopes;TI;Licença Médica;4;2021-09-27;14725.86
+3730;Lavínia Pires;Marketing;Licença Médica;1;2022-07-19;6141.0
+8440;Luiz Miguel Cavalcanti;Recursos Humanos;Outros;5;2022-01-31;20261.51
+7861;Juliana Costa;Marketing;Férias;6;2023-04-14;18396.14
+7358;Mirella Nogueira;Vendas;Problemas Pessoais;1;2021-03-03;3303.76
+1516;Kamilly Nunes;Recursos Humanos;Viagem de Negocio;1;2021-10-11;19030.63
+5993;Clara Silva;TI;Outros;6;2021-02-01;3485.75
+9617;João Gabriel Cardoso;Marketing;Problemas Pessoais;7;2023-01-13;9675.19
+7025;Matheus Porto;Marketing;Problemas Pessoais;1;2022-12-20;4508.27
+8140;Dr. Benício Campos;Marketing;Férias;5;2023-08-15;5339.75
+3894;Olivia Lima;Recursos Humanos;Férias;6;2021-08-11;16259.38
+2601;Juan Barbosa;TI;Viagem de Negocio;8;2020-11-09;19303.39
+4163;Ana Carolina Teixeira;Vendas;Problemas Pessoais;7;2022-10-11;13944.1
+7728;Yago Porto;TI;Outros;4;2021-08-27;15215.12
+4883;Srta. Letícia Rezende;Recursos Humanos;Licença Médica;4;2020-08-25;14344.15
+6572;Ana Luiza Campos;Recursos Humanos;Licença Médica;4;2021-02-23;6350.99
+2871;Augusto Mendes;TI;Viagem de Negocio;7;2023-06-04;20451.23
+3210;Ana Julia Silva;Vendas;Outros;3;2022-10-27;10003.66
+5466;Brenda da Costa;Marketing;Viagem de Negocio;7;2022-12-11;5509.85
+7729;Guilherme Rocha;Vendas;Viagem de Negocio;7;2023-11-10;6868.37
+1585;Caio Viana;TI;Outros;1;2022-04-24;5422.26
+9473;Heloísa Campos;Marketing;Férias;5;2022-10-19;3745.53
+1062;João Gabriel Fernandes;Vendas;Outros;4;2020-10-11;9663.48
+1328;Paulo Castro;Recursos Humanos;Férias;2;2021-04-18;9729.76
+4654;Ryan Jesus;Marketing;Outros;3;2022-04-13;13954.05
+4600;Marcela Nogueira;Vendas;Licença Médica;7;2021-09-16;11832.13
+7096;Clara Peixoto;TI;Problemas Pessoais;8;2022-10-25;9101.1
+7848;Lucas Barbosa;Recursos Humanos;Viagem de Negocio;6;2022-10-05;19268.36
+2559;Cauê Pires;TI;Doença;6;2023-03-16;18046.57
+9048;Marcelo Ribeiro;Recursos Humanos;Férias;1;2022-12-11;21379.95
+2059;Nathan Santos;Marketing;Doença;2;2023-01-29;18946.39
+4766;Bianca Moura;Marketing;Licença Médica;5;2022-05-22;17139.61
+3613;Matheus Silveira;Vendas;Outros;3;2021-05-25;12441.32
+6721;João Ferreira;Vendas;Viagem de Negocio;1;2020-03-15;11404.24
+6785;Lorena Barros;Recursos Humanos;Doença;6;2020-01-07;21035.29
+5441;Diogo Dias;TI;Doença;5;2020-02-27;15328.86
+7063;Maysa da Paz;Recursos Humanos;Doença;6;2020-01-07;15231.79
+6025;Emanuella Almeida;Vendas;Viagem de Negocio;3;2022-01-15;16538.52
+5716;Marcelo Lima;Recursos Humanos;Outros;8;2020-08-06;4284.94
+7127;Noah Moura;TI;Viagem de Negocio;2;2021-08-15;3178.91
+5888;Mariana Moreira;Vendas;Licença Médica;3;2020-05-27;21269.92
+1616;Srta. Ana Clara Campos;Vendas;Outros;8;2020-09-12;13299.58
+8717;Noah Costa;TI;Problemas Pessoais;1;2021-08-28;21025.28
+3009;Marcela Teixeira;Recursos Humanos;Doença;2;2022-10-17;20982.08
+1767;Mirella da Cruz;Marketing;Viagem de Negocio;2;2023-04-20;15315.84
+8308;Stephany Monteiro;Recursos Humanos;Outros;2;2020-12-11;4561.47
+8042;Sr. Diogo Moraes;TI;Férias;5;2022-02-26;21070.98
+7313;Letícia da Costa;Recursos Humanos;Viagem de Negocio;4;2021-01-17;14318.06
+8192;Sr. Kaique Almeida;TI;Outros;5;2020-07-21;8274.4
+3529;Francisco Mendes;Vendas;Problemas Pessoais;8;2021-01-07;6381.58
+6506;Sra. Caroline Pinto;Recursos Humanos;Viagem de Negocio;2;2022-12-03;7077.54
+9124;Emanuel Viana;Marketing;Doença;8;2022-05-13;19149.62
+2421;Bruna Peixoto;Recursos Humanos;Outros;4;2022-08-04;19233.28
+7735;Vitória Alves;TI;Outros;4;2021-07-30;16682.48
+3469;Bárbara da Rocha;Vendas;Doença;2;2022-03-27;17297.32
+8309;Ryan Moraes;Vendas;Doença;5;2020-10-22;9570.85
+5474;Dr. Cauê Ribeiro;Marketing;Viagem de Negocio;8;2022-11-15;9398.93
+2666;Vitor Hugo Ramos;Vendas;Outros;4;2021-08-30;18296.68
+4019;Luiz Miguel Rocha;Marketing;Problemas Pessoais;7;2021-06-12;16756.92
+1181;Caio Duarte;Recursos Humanos;Outros;2;2022-10-01;12369.7
+2232;Maria da Mata;TI;Férias;3;2021-04-27;4048.64
+1582;Catarina Melo;Vendas;Problemas Pessoais;3;2023-02-25;14567.76
+1574;Diego da Paz;TI;Doença;8;2020-12-03;16100.8
+2700;Cecília Costela;TI;Férias;2;2021-11-03;8641.84
+3023;Bárbara Gonçalves;TI;Licença Médica;7;2021-07-14;20905.71
+9155;Letícia Nascimento;Vendas;Férias;1;2022-01-18;20739.07
+3481;Vitor Hugo da Luz;TI;Doença;3;2023-04-06;13810.67
+9750;Raquel Sales;Recursos Humanos;Doença;8;2022-09-21;3790.62
+2994;Ana Beatriz Ferreira;Recursos Humanos;Licença Médica;8;2020-03-21;14056.23
+2458;Cauê Gonçalves;Recursos Humanos;Problemas Pessoais;5;2022-09-14;6665.84
+7198;Valentina Alves;TI;Viagem de Negocio;3;2022-04-15;13225.3
+4139;Cecília Melo;TI;Férias;2;2023-11-03;18268.81
+9697;Vitor Hugo Monteiro;Vendas;Férias;2;2020-03-31;6395.11
+9134;Enzo Moraes;TI;Férias;5;2021-08-10;4851.86
+4330;Esther Santos;Vendas;Doença;7;2022-09-13;14951.2
+1867;Luiz Otávio Gonçalves;Recursos Humanos;Viagem de Negocio;4;2020-08-30;4118.1
+9475;Sophie da Paz;Marketing;Viagem de Negocio;1;2022-06-09;5700.45
+9540;Sr. Luiz Felipe Cardoso;Recursos Humanos;Férias;4;2023-10-29;10649.85
+7312;Carlos Eduardo Mendes;TI;Doença;4;2022-12-29;10767.67
+3739;Enzo Gabriel Novaes;Vendas;Viagem de Negocio;4;2020-09-28;3755.9
+8766;Dr. Benício Alves;Recursos Humanos;Férias;3;2022-06-22;12559.88
+6472;Sra. Isabelly Cunha;Recursos Humanos;Problemas Pessoais;8;2022-08-14;3451.91
+9368;Cauã Barros;TI;Outros;8;2022-08-10;20078.34
+2087;Sr. Gustavo Henrique Campos;TI;Licença Médica;4;2022-01-27;18220.65
+3830;Maria Vitória Silva;TI;Outros;2;2022-07-09;9643.95
+1649;Carolina Caldeira;Recursos Humanos;Outros;4;2023-03-26;15053.8
+7420;Mirella Peixoto;TI;Problemas Pessoais;2;2023-02-23;12111.57
+2324;Sabrina da Luz;Vendas;Outros;8;2023-09-21;6003.48
+5694;João Felipe Gonçalves;TI;Licença Médica;6;2021-05-25;13497.6
+4382;Alexia da Mota;Marketing;Doença;6;2021-01-19;15317.71
+9287;Maria Sophia Silveira;Marketing;Doença;3;2023-07-05;20271.22
+3477;Thomas Caldeira;TI;Doença;5;2020-07-29;4816.5
+6659;Carolina Porto;Vendas;Férias;7;2020-07-01;21333.7
+8245;Juan Cavalcanti;Vendas;Doença;6;2023-11-29;8344.65
+1455;Helena Caldeira;Recursos Humanos;Licença Médica;8;2022-09-26;13046.97
+5973;Isadora Fernandes;Marketing;Férias;2;2022-04-09;15357.94
+5577;Bruno da Paz;Marketing;Férias;7;2021-11-02;9963.38
+7714;Srta. Raquel Barbosa;Vendas;Problemas Pessoais;3;2022-05-06;14521.17
+6768;Srta. Joana Rezende;Marketing;Férias;7;2020-12-07;20714.33
+3613;Julia Pereira;Recursos Humanos;Viagem de Negocio;6;2023-12-04;14900.15
+5344;Luna Moreira;Marketing;Férias;2;2023-02-08;7018.38
+5605;Sra. Joana Araújo;Recursos Humanos;Doença;8;2020-05-31;19323.17
+9909;Mariana Nascimento;Vendas;Férias;6;2022-02-27;14047.61
+1590;Srta. Luana Moreira;Recursos Humanos;Férias;2;2022-05-10;6640.8
+4318;Sr. Fernando Caldeira;Vendas;Problemas Pessoais;1;2021-08-20;5738.03
+5234;Francisco Moura;Recursos Humanos;Viagem de Negocio;3;2020-10-29;16735.24
+7692;Sra. Larissa Jesus;TI;Férias;2;2022-03-21;8835.5
+5931;Rafaela da Rocha;Vendas;Doença;5;2022-02-05;9471.62
+3202;Leandro Ramos;TI;Outros;4;2022-09-14;11453.61
+8121;Dra. Evelyn da Cruz;Recursos Humanos;Outros;3;2022-03-20;16163.03
+3365;Renan da Cunha;Recursos Humanos;Férias;2;2022-04-17;15574.77
+3387;Lara Sales;TI;Férias;8;2020-02-22;21205.35
+3422;Rodrigo Pereira;Marketing;Férias;3;2021-03-12;12884.73
+7825;Enzo Gabriel Fogaça;Recursos Humanos;Férias;8;2020-05-23;17743.29
+5231;Dra. Laís Carvalho;TI;Problemas Pessoais;2;2021-09-12;6059.61
+6836;Theo Lima;Recursos Humanos;Outros;8;2021-04-04;10747.26
+7989;Catarina Campos;Marketing;Doença;6;2022-01-01;5055.5
+9023;Diogo Barbosa;Marketing;Problemas Pessoais;4;2023-02-15;4652.8
+8357;Sra. Mariane Mendes;TI;Doença;1;2021-11-10;9735.95
+1737;Dr. Marcos Vinicius Nunes;Marketing;Outros;6;2020-10-26;3793.26
+9455;Erick Vieira;Marketing;Outros;5;2022-06-04;21691.41
+5453;Maria Julia Cavalcanti;Marketing;Viagem de Negocio;8;2022-04-12;6536.89
+1885;Pedro Miguel Jesus;Marketing;Outros;3;2021-06-03;6953.29
+5285;Laura Pereira;Marketing;Licença Médica;2;2021-08-24;3165.52
+3761;Davi Lucca Viana;TI;Licença Médica;1;2023-02-04;15978.63
+2537;Enrico Lima;TI;Viagem de Negocio;4;2022-10-12;16307.18
+5955;Nicole Costela;Marketing;Doença;7;2021-02-06;21135.66
+3832;Vitor Gabriel Martins;Vendas;Licença Médica;8;2021-04-08;19743.47
+3178;Lorena Jesus;TI;Doença;1;2022-02-05;20257.79
+5379;Sr. Cauã Silveira;TI;Doença;6;2022-11-29;7253.77
+8977;Daniela Carvalho;Marketing;Doença;5;2022-09-29;14306.02
+7587;Stephany Caldeira;TI;Licença Médica;3;2023-01-14;17625.89
+2449;Milena Duarte;Vendas;Problemas Pessoais;6;2020-05-07;15410.63
+6494;Isadora Cunha;TI;Férias;5;2022-01-16;9068.3
+9185;Sra. Larissa Novaes;TI;Férias;4;2020-07-08;13824.51
+1532;Sr. Raul Cardoso;TI;Problemas Pessoais;3;2022-12-03;10145.86
+7930;Davi Moura;Marketing;Licença Médica;5;2020-07-14;8736.69
+8902;Bianca Cavalcanti;Recursos Humanos;Problemas Pessoais;5;2020-04-28;14397.52
+4425;Nina Carvalho;Vendas;Férias;7;2022-07-17;13467.94
+2449;Arthur das Neves;TI;Férias;2;2023-01-16;13287.74
+6935;Breno da Conceição;Vendas;Problemas Pessoais;2;2020-06-16;9218.48
+9791;Letícia Mendes;Marketing;Viagem de Negocio;4;2023-08-28;6479.46
+5578;Henrique Porto;Marketing;Viagem de Negocio;5;2022-05-14;18572.3
+2343;Emilly Mendes;TI;Outros;7;2020-08-18;3357.16
+4417;Clarice Vieira;Recursos Humanos;Viagem de Negocio;6;2021-04-17;5912.66
+9577;Manuela Silveira;Recursos Humanos;Licença Médica;5;2020-09-26;12987.91
+8697;Enzo Gabriel Melo;Recursos Humanos;Outros;4;2020-06-27;11041.03
+5493;Murilo Pereira;Vendas;Férias;5;2022-07-25;14558.99
+7952;Agatha Campos;TI;Problemas Pessoais;2;2020-07-16;3070.24
+5916;Danilo Oliveira;Recursos Humanos;Viagem de Negocio;3;2023-07-08;17000.65
+5531;Enzo Gabriel da Luz;TI;Doença;5;2023-06-10;6440.95
+7733;Davi Lucca Souza;Marketing;Doença;3;2020-04-17;14448.15
+4815;Lorena Oliveira;Vendas;Viagem de Negocio;6;2021-07-26;6167.96
+9828;Maysa da Mata;Vendas;Licença Médica;4;2023-07-06;9831.82
+6840;Thiago Sales;TI;Doença;2;2022-10-15;19035.09
+2076;Caio das Neves;Vendas;Doença;3;2021-10-23;18833.51
+4828;Luiz Gustavo Castro;TI;Licença Médica;2;2021-09-03;5033.21
+4253;João Lucas Sales;Vendas;Outros;8;2023-05-21;8273.19
+4347;Juliana Almeida;Recursos Humanos;Outros;7;2022-12-08;6122.35
+8816;Ana Carolina da Mata;Vendas;Problemas Pessoais;8;2020-05-20;8274.58
+8439;Pedro Lucas Castro;Recursos Humanos;Viagem de Negocio;2;2020-04-05;11557.24
+3143;Luna da Costa;Vendas;Problemas Pessoais;6;2022-09-04;4490.71
+4888;Srta. Lara Cardoso;Recursos Humanos;Outros;2;2021-08-09;8724.73
+6738;Maria Fernanda Jesus;TI;Férias;1;2022-09-02;13212.23
+3704;Dr. Erick Lopes;Marketing;Outros;3;2021-01-07;14017.88
+1079;Gabriela Martins;TI;Problemas Pessoais;4;2020-10-25;4246.46
+2802;Isadora Teixeira;Recursos Humanos;Outros;6;2022-10-03;10515.16
+3198;Miguel Barros;Marketing;Outros;4;2020-01-23;14512.81
+9037;Milena Correia;Marketing;Outros;8;2021-04-06;10704.1
+7646;Ana Beatriz da Rosa;TI;Doença;6;2022-08-31;4786.22
+8408;Lara Nunes;Vendas;Férias;1;2022-07-15;17899.59
+4244;Bárbara da Rocha;Marketing;Férias;8;2022-06-13;9435.82
+9422;Lorenzo da Luz;Recursos Humanos;Férias;2;2020-03-07;21112.42
+5976;Daniel Duarte;Vendas;Problemas Pessoais;1;2021-11-05;20093.7
+2817;Isabelly Ribeiro;Vendas;Doença;1;2022-12-20;5930.83
+4207;Bárbara da Cunha;Recursos Humanos;Férias;2;2022-04-22;12737.3
+8242;Danilo Moura;Vendas;Outros;1;2021-05-09;8047.3
+5226;Vitória Barbosa;Recursos Humanos;Viagem de Negocio;3;2022-03-05;15288.67
+8770;Pedro Henrique Cardoso;TI;Férias;6;2023-08-15;10972.66
+5576;Bruno da Mota;TI;Outros;7;2020-05-13;9597.1
+9936;Alice Cavalcanti;Recursos Humanos;Outros;6;2023-05-02;20979.4
+5980;Marcela Peixoto;Vendas;Férias;3;2023-10-30;18156.93
+9794;Maria Julia Pinto;Marketing;Licença Médica;4;2023-07-30;10699.62
+9436;Maria Eduarda da Conceição;TI;Outros;1;2020-07-29;16457.56
+7948;Marina Fogaça;Marketing;Doença;8;2022-09-19;18826.28
+1094;Stephany Costa;Marketing;Licença Médica;4;2023-03-17;3962.6
+6233;Alice Barbosa;Recursos Humanos;Doença;5;2021-01-11;8187.8
+5935;Dr. Luiz Miguel Gonçalves;TI;Outros;7;2023-01-11;3196.35
+9849;Agatha Costela;TI;Licença Médica;1;2021-09-29;14921.02
+3602;Cecília Ribeiro;Marketing;Doença;6;2022-03-07;7905.83
+8358;Evelyn Mendes;TI;Licença Médica;2;2022-01-10;9250.61
+1060;Luiz Gustavo Moura;Vendas;Outros;7;2021-10-24;9295.17
+8273;Raquel Porto;Vendas;Outros;7;2020-04-19;5074.01
+6138;Sr. Enzo Santos;Marketing;Férias;1;2020-05-29;10938.82
+3909;Marcos Vinicius Martins;TI;Doença;2;2023-07-01;17662.89
+8300;Vitor Porto;Recursos Humanos;Outros;5;2022-06-25;20303.83
+8362;Lavínia Costa;Recursos Humanos;Viagem de Negocio;6;2021-10-08;16155.95
+9403;Erick da Cruz;Recursos Humanos;Licença Médica;6;2022-10-03;19814.87
+7276;Emanuelly Oliveira;Recursos Humanos;Férias;7;2020-09-19;21302.9
+6688;Lucca da Paz;Marketing;Outros;8;2020-08-17;8458.84
+1634;Camila Moreira;TI;Outros;8;2022-03-22;7753.88
+6028;Paulo Rocha;Recursos Humanos;Problemas Pessoais;3;2020-08-28;20653.43
+5554;Vicente Castro;Marketing;Problemas Pessoais;2;2022-12-13;9879.94
+4119;Luiz Otávio Monteiro;Vendas;Problemas Pessoais;8;2023-09-06;10342.74
+8690;Pedro Lucas Barros;TI;Licença Médica;7;2020-06-05;5893.24
+6864;Catarina Carvalho;Recursos Humanos;Férias;8;2021-04-12;20875.46
+7691;Luiz Gustavo Cardoso;Vendas;Outros;1;2022-04-20;4206.53
+4844;Luiz Gustavo Azevedo;Recursos Humanos;Férias;3;2023-11-02;20489.11
+5943;Mariana Pires;Recursos Humanos;Viagem de Negocio;1;2023-03-06;8157.31
+3682;Evelyn Nascimento;Marketing;Outros;6;2023-03-04;7546.34
+5541;Dr. Renan Souza;Marketing;Problemas Pessoais;7;2023-02-02;14804.55
+6262;Ana Freitas;Marketing;Licença Médica;2;2022-04-04;5318.52
+1047;Heitor Martins;Recursos Humanos;Férias;1;2020-08-13;10704.13
+6524;João Miguel Moraes;Recursos Humanos;Férias;3;2023-11-30;18873.89
+5777;João Gabriel Freitas;Recursos Humanos;Outros;4;2021-12-21;8888.48
+1722;Stephany Pires;TI;Outros;1;2021-06-07;5576.7
+6577;Cauê Barbosa;Recursos Humanos;Outros;2;2023-10-16;4288.54
+1500;Dra. Marcela Alves;TI;Doença;4;2020-08-08;19364.22
+8728;Júlia Pinto;Recursos Humanos;Licença Médica;5;2021-03-18;12173.02
+9872;Eduarda da Paz;Marketing;Problemas Pessoais;7;2022-06-26;17955.11
+9029;Caio Ramos;TI;Licença Médica;4;2022-02-03;21623.67
+7385;Giovanna Silva;Marketing;Viagem de Negocio;7;2021-02-16;15290.35
+8992;Davi Caldeira;TI;Viagem de Negocio;1;2021-12-27;20602.41
+9382;Srta. Maria Duarte;TI;Problemas Pessoais;1;2021-05-14;15053.07
+5854;Maysa Cardoso;Vendas;Viagem de Negocio;7;2023-11-19;6392.07
+8722;Antônio Teixeira;Marketing;Problemas Pessoais;5;2023-03-05;16270.53
+6982;Dr. João Lucas Ferreira;Vendas;Outros;7;2022-02-27;5868.31
+5496;Srta. Maria Sophia Sales;Vendas;Doença;5;2023-06-25;4459.25
+4226;Maria Sales;Marketing;Viagem de Negocio;6;2020-01-24;7099.21
+1048;Vitor Almeida;TI;Outros;5;2020-03-26;6860.34
+3537;Dra. Lorena Nogueira;Marketing;Doença;6;2020-12-24;16534.72
+9870;Emanuelly Cunha;TI;Outros;3;2022-04-21;3472.37
+2508;Augusto Sales;Recursos Humanos;Doença;8;2023-06-04;14280.65
+7326;Rafaela Porto;TI;Doença;8;2020-01-24;21596.5
+3329;Eduardo Silva;Recursos Humanos;Doença;4;2020-12-07;6408.88
+6546;Vinicius Costela;TI;Outros;6;2020-09-07;9673.23
+1690;Miguel Fogaça;TI;Outros;3;2022-06-22;3814.43
+7411;Daniela Barbosa;Marketing;Viagem de Negocio;8;2023-06-26;9703.6
+8587;Beatriz Campos;Vendas;Licença Médica;2;2022-09-14;15129.93
+7722;Srta. Daniela Pereira;Marketing;Férias;5;2023-10-19;3796.67
+5560;Bárbara Silveira;TI;Licença Médica;3;2021-08-12;19966.74
+4108;Diego da Cunha;Marketing;Problemas Pessoais;5;2021-04-10;10300.71
+2127;Isis Porto;Recursos Humanos;Viagem de Negocio;8;2022-10-27;12132.13
+4822;Heloísa Moraes;TI;Problemas Pessoais;1;2022-09-27;19209.41
+8270;Carlos Eduardo Fernandes;Vendas;Problemas Pessoais;2;2023-11-05;7094.28
+8905;Benício Alves;Recursos Humanos;Problemas Pessoais;1;2021-11-19;10001.85
+9637;Raul Campos;TI;Licença Médica;4;2020-01-26;10538.63
+4362;Matheus Martins;Vendas;Outros;4;2022-11-19;17654.21
+5988;Ana Julia Araújo;Vendas;Viagem de Negocio;3;2020-08-13;17587.46
+4615;João Felipe Barros;TI;Doença;2;2023-07-16;5828.95
+3869;Vinicius da Costa;Recursos Humanos;Outros;8;2023-06-10;4758.85
+8497;Dr. Vitor Santos;Recursos Humanos;Doença;3;2020-11-24;7016.5
+7186;Eloah Mendes;Vendas;Férias;8;2022-07-17;15557.7
+6633;Sophie Duarte;Marketing;Viagem de Negocio;8;2023-04-14;12359.52
+6989;Maria da Conceição;Vendas;Outros;8;2023-04-09;7581.01
+2341;Dr. Bruno Gonçalves;Vendas;Outros;7;2021-02-19;18580.09
+6939;Ana Júlia Ramos;TI;Licença Médica;6;2021-06-26;13292.67
+5757;Lavínia Castro;Marketing;Licença Médica;5;2023-07-17;12881.57
+3921;Luigi da Costa;TI;Outros;5;2020-03-02;7918.6
+2368;Olivia Carvalho;Recursos Humanos;Outros;6;2020-08-02;20380.66
+4422;Cauê Lima;Recursos Humanos;Outros;1;2021-03-31;9879.52
+7850;Sophia Fernandes;Marketing;Licença Médica;7;2023-06-22;17208.63
+6909;Gabrielly Alves;Marketing;Doença;6;2021-12-19;11984.22
+7762;Dr. Emanuel Almeida;Marketing;Problemas Pessoais;6;2023-02-06;3893.72
+4154;Dr. Lucas da Mota;Recursos Humanos;Doença;3;2020-05-03;13748.7
+9678;Benício Castro;Vendas;Férias;2;2020-03-26;21104.58
+1363;Marcelo da Costa;TI;Problemas Pessoais;1;2023-06-26;5508.78
+9716;Maria Sophia Moura;Vendas;Doença;1;2022-03-03;15868.29
+4385;Danilo Souza;Marketing;Outros;8;2020-10-10;11867.17
+9094;Lara Aragão;Marketing;Doença;2;2021-01-16;13384.87
+2130;Rafaela Moura;Marketing;Licença Médica;2;2021-04-24;5435.16
+2477;Dr. Gustavo Henrique Mendes;Recursos Humanos;Problemas Pessoais;3;2021-03-03;18720.37
+9760;Marcelo Fogaça;Vendas;Problemas Pessoais;5;2022-07-23;6256.57
+1001;Leonardo Fogaça;Recursos Humanos;Outros;7;2020-07-06;9260.49
+3594;Srta. Esther Cardoso;Vendas;Doença;2;2022-04-26;7788.19
+7979;Daniela Ribeiro;Marketing;Licença Médica;6;2022-12-26;12716.58
+3849;Júlia Moreira;Marketing;Viagem de Negocio;3;2023-02-20;20733.35
+3601;Lara da Luz;Vendas;Férias;3;2022-02-03;12871.66
+4594;Rebeca Martins;Marketing;Férias;4;2022-09-19;16793.53
+1828;Sra. Maria Cecília Costela;Vendas;Férias;6;2020-11-25;6837.8
+8522;Srta. Stella Santos;Marketing;Doença;2;2021-12-26;11738.99
+9322;Srta. Clara Nunes;TI;Viagem de Negocio;5;2023-08-19;20166.85
+9499;Sra. Clara Porto;TI;Viagem de Negocio;2;2022-03-17;17357.32
+9638;Giovanna Fogaça;Vendas;Férias;6;2021-04-07;11629.73
+8536;Beatriz da Mota;Recursos Humanos;Licença Médica;4;2020-03-18;4759.07
+7240;João Pedro Silveira;Recursos Humanos;Doença;3;2022-01-06;17424.91
+8042;Agatha Pereira;Vendas;Outros;2;2023-08-01;10940.99
+5311;João Gabriel Duarte;Recursos Humanos;Férias;6;2021-02-04;16762.18
+3666;Srta. Ana Clara Rodrigues;Marketing;Licença Médica;7;2022-10-19;18253.66
+7140;Sarah Cunha;Recursos Humanos;Férias;1;2022-10-16;14375.06
+9394;Dr. Daniel Moreira;Marketing;Problemas Pessoais;7;2023-06-11;5147.43
+4721;Dr. Luiz Felipe Silveira;Recursos Humanos;Doença;6;2022-02-12;15944.4
+1980;Carlos Eduardo da Cunha;TI;Outros;2;2023-02-11;12977.22
+4069;Ana Julia Moraes;Recursos Humanos;Doença;3;2020-02-05;7098.16
+3408;Amanda Barbosa;TI;Viagem de Negocio;5;2022-09-26;18728.4
+5002;Emanuel Porto;TI;Viagem de Negocio;8;2021-08-11;12310.52
+2292;Sr. Matheus da Rocha;Recursos Humanos;Doença;1;2020-06-15;19997.78
+4238;Maria Clara Farias;Recursos Humanos;Licença Médica;1;2023-03-15;11185.12
+9287;Olivia Viana;Recursos Humanos;Doença;6;2022-10-09;9707.76
+9937;Eloah Cardoso;Recursos Humanos;Doença;1;2020-08-19;4546.97
+6113;Carlos Eduardo Souza;Recursos Humanos;Problemas Pessoais;1;2022-08-03;7966.18
+8536;Isis Peixoto;Vendas;Férias;6;2022-05-05;15064.37
+2170;Maria Luiza Novaes;Vendas;Outros;1;2022-11-27;6548.52
+3373;Luiz Miguel Silveira;TI;Problemas Pessoais;8;2023-05-12;10718.07
+7981;Vitor Gabriel Campos;Recursos Humanos;Outros;4;2023-07-30;14785.03
+2180;Vicente da Rosa;Vendas;Férias;2;2020-02-06;7841.86
+6830;Lucas Gabriel Gonçalves;Recursos Humanos;Licença Médica;4;2023-04-05;13749.57
+4911;Theo Rezende;Recursos Humanos;Doença;3;2020-05-13;18884.65
+3501;Matheus Duarte;TI;Licença Médica;3;2020-06-17;12192.42
+1681;Ryan Freitas;Vendas;Licença Médica;8;2022-05-12;20095.79
+2602;Bruna Correia;Marketing;Férias;8;2021-06-16;5204.81
+3105;Benício Rezende;Recursos Humanos;Licença Médica;6;2020-11-02;21036.8
+7915;Julia das Neves;Recursos Humanos;Férias;1;2022-12-14;8459.52
+1914;Rodrigo Silva;Recursos Humanos;Licença Médica;2;2023-11-01;7488.47
+1525;Emanuelly Porto;Vendas;Problemas Pessoais;1;2023-04-08;9124.71
+4363;Vitória Moreira;Vendas;Outros;1;2023-09-24;21719.24
+4625;Natália Rocha;TI;Problemas Pessoais;4;2021-06-29;21305.91
+3845;Dra. Laura da Rosa;Vendas;Problemas Pessoais;6;2021-03-01;19301.49
+9500;Maitê Nunes;Recursos Humanos;Férias;2;2022-08-19;21088.46
+3145;Theo Barros;Vendas;Outros;5;2022-05-19;15750.57
+9171;Arthur Gonçalves;Vendas;Férias;7;2022-08-27;20273.5
+1687;Carlos Eduardo Moreira;TI;Licença Médica;6;2020-02-27;10147.63
+6193;Larissa Campos;Recursos Humanos;Outros;1;2022-08-18;17926.25
+8633;Maria Fernanda Oliveira;Marketing;Férias;2;2022-04-03;7398.81
+6018;André Silva;Recursos Humanos;Outros;8;2021-11-16;12771.0
+8672;Julia Fernandes;Recursos Humanos;Doença;7;2023-08-18;10852.49
+3359;Rodrigo Souza;Marketing;Licença Médica;6;2023-03-10;7838.75
+6068;Maria Sophia Costa;Marketing;Férias;6;2020-09-09;3083.23
+4175;João Vitor Pereira;Recursos Humanos;Problemas Pessoais;1;2022-06-26;14215.22
+9203;Lívia Cunha;Marketing;Viagem de Negocio;8;2023-06-12;17853.9
+1759;Davi Lucca da Conceição;TI;Férias;7;2021-11-20;9331.13
+9320;Sr. João Guilherme Pereira;Vendas;Viagem de Negocio;7;2020-10-09;19545.9
+7140;Emanuella Lima;Vendas;Viagem de Negocio;2;2020-01-07;9634.6
+2308;Heitor Mendes;TI;Doença;2;2023-09-11;20747.79
+6025;Luiz Fernando Barros;Recursos Humanos;Viagem de Negocio;8;2022-04-16;9387.71
+8368;Bernardo da Mota;TI;Doença;7;2023-05-20;9673.3
+5557;Felipe da Costa;Vendas;Doença;7;2021-01-26;21690.26
+7970;Mirella Castro;TI;Doença;5;2021-06-09;7393.83
+6146;Ian Silva;TI;Problemas Pessoais;7;2021-09-07;7474.23
+8183;Dr. Gabriel Cardoso;TI;Viagem de Negocio;1;2022-01-17;14891.04
+9491;Luiz Miguel Cardoso;Vendas;Viagem de Negocio;6;2021-01-24;5676.69
+1478;Ana Carolina Lopes;Recursos Humanos;Outros;6;2023-03-11;10936.74
+9934;Srta. Ana Pires;TI;Licença Médica;3;2020-09-04;11522.64
+5130;Daniela Santos;Recursos Humanos;Doença;3;2020-03-12;14979.94
+9631;Breno Duarte;Recursos Humanos;Férias;2;2021-11-10;19231.38
+8470;Diogo Mendes;TI;Licença Médica;8;2020-12-30;18878.27
+5620;Maria Eduarda Pinto;Marketing;Problemas Pessoais;2;2023-06-26;4473.32
+9156;Kaique Caldeira;Recursos Humanos;Doença;7;2021-09-03;8232.66
+8738;Dr. Augusto da Mota;Recursos Humanos;Licença Médica;3;2021-07-04;6676.59
+6478;Luigi Mendes;Vendas;Férias;2;2020-05-13;8584.34
+9213;Dra. Maria Fernanda Melo;Recursos Humanos;Doença;7;2023-06-10;7898.74
+6954;Joana Ferreira;TI;Outros;6;2020-07-08;4009.99
+6556;Antônio Sales;Marketing;Outros;5;2020-09-28;15896.84
+3259;Dr. Isaac Cardoso;TI;Doença;6;2022-06-26;19005.72
+8408;Ana Júlia da Rocha;TI;Problemas Pessoais;2;2023-10-11;13162.77
+8901;Sra. Rafaela das Neves;Recursos Humanos;Outros;7;2020-07-29;18718.58
+4039;Pedro Nogueira;Recursos Humanos;Doença;8;2020-04-12;20993.34
+4556;Joaquim Jesus;Marketing;Problemas Pessoais;5;2022-08-14;6826.84
+7722;Ana Júlia Costa;Marketing;Férias;8;2023-07-13;11306.77
+1422;Gabriela Cunha;TI;Doença;6;2021-04-08;14385.52
+4701;Dr. Davi Luiz Farias;Vendas;Outros;5;2021-04-15;3721.26
+9285;Felipe Nunes;Recursos Humanos;Doença;4;2020-11-28;5677.87
+2987;Luana Rodrigues;Vendas;Outros;3;2022-08-29;11729.14
+8480;Levi Cavalcanti;Marketing;Outros;6;2022-02-09;4426.34
+5216;Lara Fernandes;Vendas;Outros;6;2023-05-07;9580.02
+7416;Dra. Clara Araújo;Recursos Humanos;Outros;1;2020-04-22;19707.43
+9578;Henrique Cardoso;TI;Férias;7;2021-04-02;4482.9
+7680;Augusto Gomes;Recursos Humanos;Problemas Pessoais;2;2022-09-13;4178.06
+2564;Fernanda da Mata;Recursos Humanos;Doença;2;2023-05-17;7422.78
+8559;Yago Rodrigues;Vendas;Licença Médica;2;2023-05-07;7837.61
+5208;Bruno Cardoso;Vendas;Doença;1;2022-04-09;16443.01
+8347;Agatha Araújo;Recursos Humanos;Doença;2;2022-04-26;8645.7
+9420;Ian Moraes;Recursos Humanos;Outros;3;2021-08-11;20606.86
+6131;Sr. Luiz Henrique Silveira;TI;Férias;7;2020-12-24;14469.53
+9440;Alexandre Aragão;Marketing;Problemas Pessoais;7;2022-06-24;15068.54
+1158;Emanuella Rodrigues;Recursos Humanos;Licença Médica;5;2023-04-06;7635.97
+6829;Natália Ferreira;TI;Viagem de Negocio;3;2021-06-27;12250.73
+3537;Igor Moura;Vendas;Doença;3;2022-08-18;17700.98
+6859;Carolina Ferreira;TI;Problemas Pessoais;3;2021-10-11;11768.69
+3155;Dr. Fernando Araújo;Marketing;Férias;3;2021-05-21;15010.51
+2085;Júlia Pereira;Recursos Humanos;Problemas Pessoais;6;2020-11-04;4403.52
+7928;Sabrina Gonçalves;TI;Licença Médica;1;2021-12-14;15355.14
+9231;Paulo Vieira;Marketing;Problemas Pessoais;5;2020-03-28;21254.63
+7652;Yago Campos;Recursos Humanos;Férias;2;2021-11-07;13132.67
+9862;Maria Alice das Neves;Vendas;Doença;2;2023-11-09;8233.93
+7971;Srta. Maria Alice Porto;Vendas;Viagem de Negocio;4;2023-09-07;5091.44
+2223;Benjamin da Rocha;Vendas;Viagem de Negocio;1;2023-06-25;7822.82
+6329;Raquel Lima;Vendas;Problemas Pessoais;4;2020-07-12;3774.2
+9740;Dr. Miguel Nascimento;Vendas;Licença Médica;4;2023-05-19;20101.8
+4386;Cauê Gonçalves;TI;Viagem de Negocio;4;2023-09-14;17209.09
+9293;Yuri Almeida;Marketing;Viagem de Negocio;1;2022-12-09;13675.36
+5419;Renan Correia;Vendas;Férias;8;2020-04-24;5035.01
+6448;Eduardo Araújo;TI;Viagem de Negocio;2;2020-11-21;10858.53
+1532;Sr. Pietro Rocha;Vendas;Problemas Pessoais;2;2022-08-13;21669.8
+1241;Sr. Danilo das Neves;TI;Problemas Pessoais;1;2023-05-16;5134.03
+9406;Samuel Carvalho;Vendas;Outros;2;2022-05-13;13145.72
+5301;Davi Moreira;Vendas;Doença;4;2020-07-18;11794.33
+5921;Milena Ferreira;Recursos Humanos;Problemas Pessoais;7;2020-11-18;7453.69
+9246;Sr. Leandro Porto;Marketing;Férias;4;2021-07-04;19208.33
+8329;Thales Viana;Recursos Humanos;Problemas Pessoais;1;2022-02-11;8283.36
+6155;Nicolas Pires;TI;Outros;7;2022-01-27;20138.14
