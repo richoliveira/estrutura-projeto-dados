@@ -228,6 +228,16 @@ files = [
 ]
 
 [[package]]
+name = "subprocess-run"
+version = "0.0.8"
+description = "The subprocess module extension to run processes."
+optional = false
+python-versions = "*"
+files = [
+    {file = "subprocess.run-0.0.8.tar.gz", hash = "sha256:5760270139acc4cc4058184e539f5b613dbe0073d84ee43247c2e0fc5c04db4e"},
+]
+
+[[package]]
 name = "tzdata"
 version = "2023.3"
 description = "Provider of IANA time zone data"
@@ -241,4 +251,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "3.12.0"
-content-hash = "ecb69b8c718e74f86261b2f32e1331da234b57c2d4d44c5a65520b8e6c889a4c"
+content-hash = "19ab58acefbf3b0354683b3589ff8be14d8ec585dd2b0c0650d318cf902ba3fc"
