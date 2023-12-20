@@ -18,10 +18,12 @@ def retorna_dataframe_teste():
 
 def test_load_exporta_dataframe_csv(retorna_dataframe_teste):
     # Chamando a função de exportação
-    output_path="data\output"
+    output_path="data/output"
     nome_arquivo="arquivo_teste_export"
     load_exporta_dataframe_csv(retorna_dataframe_teste, output_path, nome_arquivo)
     
     # Verificando se o arquivo CSV foi criado
     path_nome_arquivo = f"{output_path}/{nome_arquivo}"
     assert os.path.exists(f"{path_nome_arquivo}.csv")
+
+# comentario
