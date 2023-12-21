@@ -1,22 +1,22 @@
+"""Modulos para manipulacao de diretorios e tratamento de dados."""
 import os
-import subprocess as sub
 from typing import List
 
 import pandas as pd
 
-"""
-funcao para ler os arquivos da pasta /data/imput
-retornar uma lista de dataframes pandas
-
-args: input_path (str): caminho da pasta com os arquivos
-return: lista de DataFrames
-"""
-
 
 def extract_csv_local(caminho_pasta: str) -> List[pd.DataFrame]:
+    """
+    Funcao para ler os arquivos csv de um diretorio retornar uma lista de dataframes pandas.
+
+    args: caminho_pasta (str): caminho da pasta com os arquivos.
+    return: lista de DataFrames.
+    """
     # Verifica se o caminho da pasta existe
     if not os.path.exists(caminho_pasta):
-        raise FileNotFoundError(f'O diretório "{caminho_pasta}" não foi encontrado.')
+        raise FileNotFoundError(
+            f'O diretório "{caminho_pasta}" não foi encontrado.'
+        )
 
     # Lista para armazenar os dataframes
     dataframes_list = []
@@ -34,13 +34,13 @@ def extract_csv_local(caminho_pasta: str) -> List[pd.DataFrame]:
     # Retorna a lista de dataframes
     return dataframes_list
 
-if __name__=="__main__":
+if __name__ == '__main__':
     # Exemplo de uso
     caminho_pasta_csv = 'data/input'
     lista_de_dataframes = extract_csv_local(caminho_pasta_csv)
 
     print(lista_de_dataframes)
 
-    print("extract")
+    print('extract')
 
-    # Agora, lista_de_dataframes contém os dataframes lidos dos arquivos CSV na pasta /data/input
+    # Agora, lista_de_dataframes contém os dataframes lidos dos arquivos CSV
