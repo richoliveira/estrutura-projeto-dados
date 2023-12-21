@@ -1,1 +1,1 @@
-"""Modulos de teste unitarios."""
+"""Modulo de testes."""

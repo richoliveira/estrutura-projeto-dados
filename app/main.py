@@ -8,7 +8,7 @@ from pipeline.extract import extract_csv_local
 from pipeline.load import load_exporta_dataframe_csv
 from pipeline.transform import concatena_lista_dataframes
 
-# Exemplo de uso
+# Exemplo de usoc
 caminho_pasta_csv = 'data/input'
 lista_de_dataframes = extract_csv_local(caminho_pasta_csv)
 df_absenteismo_concatenado = concatena_lista_dataframes(lista_de_dataframes)

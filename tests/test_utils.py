@@ -1,4 +1,4 @@
-from app.utils.utils import cria_diretorio_local
+from utils.utils import cria_diretorio_local
 
 """
 Teste Unitario
