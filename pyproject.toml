@@ -12,10 +12,21 @@ faker = "^20.1.0"
 pytest = "^7.4.3"
 subprocess-run = "^0.0.8"
 isort = "^5.13.2"
-flake8 = "^6.1.0"
 pydocstyle = "^6.3.0"
+taskipy = "^1.12.2"
+blue = "^0.9.1"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.3"
+mkdocstrings-python = "^1.7.5"
+pymdown-extensions = "^10.5"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.taskipy.tasks]
+format = "isort . && blue ."
+test = "pytest -v"
+run = "python app/main.py"
+kill = "kill -9 $(lsof -t -i :8000)"

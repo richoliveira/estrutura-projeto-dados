@@ -1,0 +1,30 @@
+site_name: Projeto Estruturado de Dados
+theme:
+  name: material
+  palette:
+    primary: blue grey
+  language: pt
+
+repo_name: richoliveira/estrutura-projeto-dados
+repo_url: https://github.com/richoliveira/estrutura-projeto-dados
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
