@@ -1,0 +1,23 @@
+name: learn-github-actions
+run-name: ${{ github.actor }}
+on: [pull_request]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.12.0
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12.0'
+      
+      - name: install poetry
+      - run: curl -sSL https://install.python-poetry.org | python3 -
+      
+      - name: install dependencies with poetry
+      - run: poetry install
+
+      - name: Run pytest
+      - run: pytest -v
