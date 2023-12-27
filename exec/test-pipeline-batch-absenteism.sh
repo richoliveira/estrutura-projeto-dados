@@ -7,7 +7,9 @@ export PYTHONPATH=.:$PYTHONPATH
 # EXECUTA OS TESTE UNITARIOS
 poetry --version
 
-ls /home/runner/.cache/pypoetry/virtualenvs
+ls /home/runner/.cache/pypoetry/virtualenvs/pacote-estrutura-projeto-NxwJ7pYs-py3.12
 
 
-ls /home/runner/.cache/pypoetry/virtualenvs/bin
+ls /home/runner/.cache/pypoetry/virtualenvs/pacote-estrutura-projeto-NxwJ7pYs-py3.12/bin
+
+echo $PWD
