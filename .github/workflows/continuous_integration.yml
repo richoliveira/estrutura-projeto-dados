@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: CI Workflows
 run-name: ${{ github.actor }}
 on: [pull_request]
 jobs:
