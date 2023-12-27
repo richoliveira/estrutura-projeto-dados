@@ -1,7 +1,6 @@
-# Welcome to MkDocs
+# Bem-vindo ao Projeto de Dados Estruturado
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
+Para executar o projeto, visite [README.md](https://github.com/richoliveira/estrutura-projeto-dados).
 
 ## Project layout
 
