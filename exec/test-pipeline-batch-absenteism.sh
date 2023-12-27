@@ -7,4 +7,7 @@ export PYTHONPATH=.:$PYTHONPATH
 # EXECUTA OS TESTE UNITARIOS
 poetry --version
 
-pytest --version
+ls /home/runner/.cache/pypoetry/virtualenvs
+
+
+ls /home/runner/.cache/pypoetry/virtualenvs/bin
