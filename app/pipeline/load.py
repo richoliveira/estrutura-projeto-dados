@@ -3,12 +3,13 @@ import pandas as pd
 
 from utils.utils import cria_diretorio_local
 
+
 def load_exporta_dataframe_csv(
     dataframe: pd.DataFrame, output_path: str, nome_arquivo: str
 ) -> str:
     """
-    Funcao recebe um DataFrame Pandas e exporta um arquivo csv.
-    
+    Funcao recebe um DataFrame Pandas e exporta um arquivo csv em um diretorio.
+
     args:
         dataframe (pd.DataFrame): dataframe pandas.
         output_path (str): caminho da pasta aonde o arquivo será gerado.
@@ -23,7 +24,10 @@ def load_exporta_dataframe_csv(
         print(f'STEP LOAD - EXPORTA CSV - {log_cria_diretorio}')
         try:
             dataframe.to_csv(
-                f'{output_path}/{nome_arquivo}.csv', sep=';', header=True, index=False
+                f'{output_path}/{nome_arquivo}.csv',
+                sep=';',
+                header=True,
+                index=False,
             )
             print('STEP LOAD - EXPORTA CSV - Sucesso')
         except Exception as e:

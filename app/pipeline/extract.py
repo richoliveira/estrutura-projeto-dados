@@ -9,8 +9,10 @@ def extract_csv_local(caminho_pasta: str) -> List[pd.DataFrame]:
     """
     Funcao para ler os arquivos csv de um diretorio retornar uma lista de dataframes pandas.
 
-    args: caminho_pasta (str): caminho da pasta com os arquivos.
-    return: lista de DataFrames.
+    args:
+        caminho_pasta (str): caminho da pasta com os arquivos.
+    
+    return: lista de DataFrames pandas.
     """
     # Verifica se o caminho da pasta existe
     if not os.path.exists(caminho_pasta):
@@ -33,6 +35,7 @@ def extract_csv_local(caminho_pasta: str) -> List[pd.DataFrame]:
             dataframes_list.append(df)
     # Retorna a lista de dataframes
     return dataframes_list
+
 
 if __name__ == '__main__':
     # Exemplo de uso

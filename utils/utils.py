@@ -2,13 +2,14 @@
 import os
 from subprocess import run
 
+
 def cria_diretorio_local(path_diretorio) -> str:
     """
     Funcao recebe um diretorio e um nome de pasta e cria a pasta no diretorio.
-    
+
     args:
         path_diretorio (str): diretório e a pasta que sera criada no diretório.
-    
+
     return: mensagem de retorno referente a criação da pasta.
     """
     if not os.path.exists(path_diretorio):
@@ -29,6 +30,7 @@ def cria_diretorio_local(path_diretorio) -> str:
         return str(
             f'O diretorio criado com sucesso ou {path_diretorio} ja existe!'
         )
+
 
 if __name__ == '__main__':
     # Exemplo de uso
