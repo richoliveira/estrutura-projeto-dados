@@ -20,10 +20,6 @@ jobs:
     - name: Install poetry
       run: |
         curl -sSL https://install.python-poetry.org | python3 -
-    
-    - name: activate virtualenv with poetry
-      run: |
-        poetry shell
 
     - name: Install dependencies with poetry
       run: |
