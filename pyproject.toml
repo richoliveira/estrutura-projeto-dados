@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pacote-estrutura-projeto"
-version = "0.2.1"
+version = "0.2.2"
 description = "projeto de dados com os pacotes devidamente estruturados"
 authors = ["rich.oliveira <wallacerafael01@gmail.com>"]
 readme = "README.md"
