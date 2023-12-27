@@ -2,7 +2,7 @@ name: CI Workflows
 run-name: ${{ github.actor }}
 on: [pull_request]
 jobs:
-  check-bats-version:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
