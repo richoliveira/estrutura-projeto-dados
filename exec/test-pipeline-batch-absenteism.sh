@@ -5,4 +5,4 @@ export PATH=/opt/poetry/bin:$PATH
 export PYTHONPATH=.:$PYTHONPATH
 
 # EXECUTA OS TESTES UNITARIOS
-pytest -v
+poetry run pytest -v
